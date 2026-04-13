@@ -129,12 +129,12 @@
     {
       "matchId": 554848,
       "date": "2026-04-11T23:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 11,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "V",
       "golsPro": 1,
       "golsContra": 0
     },
