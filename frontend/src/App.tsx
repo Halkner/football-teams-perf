@@ -48,9 +48,12 @@ type ProjectionData = {
 
 type ChartPoint = {
   label: string
+  roundLabel: string
   opponent: string
   date: string
   status: string
+  local: 'CASA' | 'FORA'
+  matchday: number
   pontosPossiveis: number
   realizado: number | null
   realizadoResultado: MatchResult
@@ -69,6 +72,29 @@ type TeamOption = {
 type LastUpdateData = {
   updatedAt: string
   timezone: string
+}
+
+type ViewportMode = 'mobile' | 'tablet' | 'desktop'
+
+type ChartConfig = {
+  canvasWidth: string
+  margin: { top: number; right: number; left: number; bottom: number }
+  xAxisDataKey: 'label' | 'roundLabel'
+  xAxisAngle: number
+  xAxisHeight: number
+  xAxisPadding: { left: number; right: number }
+  minTickGap: number
+  tickMargin: number
+  tickFontSize: number
+  yAxisWidth: number
+  yAxisFontSize: number
+  strokeWidth: number
+  dotRadius: number
+  activeDotRadius: number
+  referenceDotRadius: number
+  deltaFontSize: number
+  showDeltaLabels: boolean
+  showVerticalGrid: boolean
 }
 
 const TEAM_OPTIONS: TeamOption[] = [
@@ -107,8 +133,9 @@ const RESULT_POINTS: Record<Exclude<MatchResult, null>, number> = {
 function App() {
   const [selectedTeamKey, setSelectedTeamKey] = useState('flamengo')
   const [isTeamMenuOpen, setIsTeamMenuOpen] = useState(false)
-  const [viewportHeight, setViewportHeight] = useState(() => getViewportHeight())
   const [viewportWidth, setViewportWidth] = useState(() => getViewportWidth())
+  const [selectedPointLabel, setSelectedPointLabel] = useState<string | null>(null)
+  const [detailMode, setDetailMode] = useState<'latest' | 'selected'>('latest')
   const teamPickerRef = useRef<HTMLDivElement | null>(null)
 
   const selectedTeam = TEAM_OPTIONS.find((option) => option.key === selectedTeamKey) ?? TEAM_OPTIONS[0]
@@ -126,22 +153,27 @@ function App() {
 
   const currentProjection = getCurrentProjectedValue(chartData)
   const currentRealized = getLastRealizedValue(chartData)
-  const chartDensity = useMemo(() => getChartDensity(viewportHeight, viewportWidth), [viewportHeight, viewportWidth])
+  const viewportMode = useMemo(() => getViewportMode(viewportWidth), [viewportWidth])
+  const chartConfig = useMemo(() => getChartConfig(viewportMode, chartData.length), [viewportMode, chartData.length])
+  const selectedPoint =
+    chartData.find((item) => item.label === selectedPointLabel) ??
+    getDefaultSelectedPoint(chartData) ??
+    chartData[0] ??
+    null
 
   useEffect(() => {
-    function handlePointerDown(event: MouseEvent) {
+    function handlePointerDown(event: PointerEvent) {
       if (!teamPickerRef.current?.contains(event.target as Node)) {
         setIsTeamMenuOpen(false)
       }
     }
 
-    globalThis.addEventListener('mousedown', handlePointerDown)
-    return () => globalThis.removeEventListener('mousedown', handlePointerDown)
+    globalThis.addEventListener('pointerdown', handlePointerDown)
+    return () => globalThis.removeEventListener('pointerdown', handlePointerDown)
   }, [])
 
   useEffect(() => {
     function handleResize() {
-      setViewportHeight(getViewportHeight())
       setViewportWidth(getViewportWidth())
     }
 
@@ -152,12 +184,16 @@ function App() {
 
   return (
     <main className="app-shell">
-      <section className="panel">
+      <section className={`panel panel-${viewportMode}`}>
         <div className="panel-header">
           <div className="panel-heading">
             <p className="eyebrow">Brasileirão 2026</p>
             <h1>{displayedTeamName}</h1>
-            <p className="subtle">Projeção acumulada x desempenho real por confronto</p>
+            <p className="subtle">
+              {viewportMode === 'mobile'
+                ? 'Projeção acumulada x desempenho real'
+                : 'Projeção acumulada x desempenho real por confronto'}
+            </p>
           </div>
 
           <div className="panel-controls">
@@ -188,6 +224,11 @@ function App() {
                         className={`team-picker-option${option.key === selectedTeamKey ? ' is-active' : ''}`}
                         onClick={() => {
                           setSelectedTeamKey(option.key)
+                          const nextChartData = buildChartData(option.matches, option.projection)
+                          setSelectedPointLabel(
+                            getDefaultSelectedPoint(nextChartData)?.label ?? nextChartData[0]?.label ?? null,
+                          )
+                          setDetailMode('latest')
                           setIsTeamMenuOpen(false)
                         }}
                       >
@@ -219,82 +260,101 @@ function App() {
         </div>
 
         <div className="chart-wrap">
-          <div className="chart-canvas">
-            <ResponsiveContainer width="100%" height="100%">
-              <LineChart
-                data={chartData}
-                margin={{
-                  top: chartDensity === 'compact' ? 8 : 12,
-                  right: chartDensity === 'micro' ? 8 : chartDensity === 'compact' ? 8 : 10,
-                  left: chartDensity === 'micro' ? 8 : chartDensity === 'compact' ? 8 : 10,
-                  bottom: chartDensity === 'compact' ? 24 : chartDensity === 'tight' ? 30 : 54,
-                }}
-              >
-                <CartesianGrid strokeDasharray="3 3" stroke="rgba(18, 42, 66, 0.12)" />
-                <XAxis
-                  dataKey="label"
-                  angle={chartDensity === 'micro' ? 0 : chartDensity === 'compact' ? -18 : chartDensity === 'tight' ? -24 : -38}
-                  textAnchor={chartDensity === 'micro' ? 'middle' : 'end'}
-                  interval={0}
-                  padding={{ left: chartDensity === 'micro' ? 18 : chartDensity === 'compact' ? 16 : 12, right: chartDensity === 'micro' ? 18 : chartDensity === 'compact' ? 16 : 12 }}
-                  minTickGap={chartDensity === 'micro' ? 18 : 8}
-                  tickMargin={chartDensity === 'micro' ? 10 : chartDensity === 'compact' ? 6 : chartDensity === 'tight' ? 8 : 12}
-                  tick={{ fontSize: chartDensity === 'micro' ? 7 : chartDensity === 'compact' ? 8 : chartDensity === 'tight' ? 9 : 11, fill: '#335c67' }}
-                  height={chartDensity === 'micro' ? 34 : chartDensity === 'compact' ? 54 : chartDensity === 'tight' ? 68 : 118}
-                  tickFormatter={(value, index) => getChartAxisLabel(String(value), index, chartDensity, chartData.length)}
-                />
-                <YAxis
-                  allowDecimals={false}
-                  width={chartDensity === 'compact' ? 28 : 36}
-                  tick={{ fontSize: chartDensity === 'compact' ? 10 : 12, fill: '#335c67' }}
-                />
-                <Tooltip content={<ChartTooltip />} />
-                <Line
-                  type="monotone"
-                  dataKey="projetado"
-                  name="Planejado"
-                  stroke="#ff8fa3"
-                  strokeWidth={3}
-                  dot={{ r: chartDensity === 'compact' ? 2 : 3, strokeWidth: 0 }}
-                  activeDot={{ r: chartDensity === 'compact' ? 4 : 5 }}
-                />
-                <Line
-                  type="monotone"
-                  dataKey="realizado"
-                  name="Realizado"
-                  stroke="#52b788"
-                  strokeWidth={3}
-                  dot={{ r: chartDensity === 'compact' ? 2 : 3, strokeWidth: 0 }}
-                  connectNulls={false}
-                  activeDot={{ r: chartDensity === 'compact' ? 4 : 5 }}
-                />
-                {deltaPoints.map((point) => {
-                  const delta = point.diferenca ?? 0
+          <div className={`chart-scroll-shell${viewportMode === 'mobile' ? ' is-mobile' : ''}`}>
+            <div className="chart-canvas" style={{ width: chartConfig.canvasWidth }}>
+              <ResponsiveContainer width="100%" height="100%">
+                <LineChart
+                  data={chartData}
+                  margin={chartConfig.margin}
+                  onClick={(state) => {
+                    const activePoint = (
+                      state as unknown as { activePayload?: Array<{ payload?: ChartPoint }> }
+                    )?.activePayload?.[0]?.payload
+                    if (activePoint) {
+                      setSelectedPointLabel(activePoint.label)
+                      setDetailMode('selected')
+                    }
+                  }}
+                >
+                  <CartesianGrid
+                    strokeDasharray={chartConfig.showVerticalGrid ? '3 3' : '0'}
+                    vertical={chartConfig.showVerticalGrid}
+                    stroke="rgba(18, 42, 66, 0.12)"
+                  />
+                  <XAxis
+                    dataKey={chartConfig.xAxisDataKey}
+                    angle={chartConfig.xAxisAngle}
+                    textAnchor={chartConfig.xAxisAngle === 0 ? 'middle' : 'end'}
+                    interval={0}
+                    padding={chartConfig.xAxisPadding}
+                    minTickGap={chartConfig.minTickGap}
+                    tickMargin={chartConfig.tickMargin}
+                    tick={{ fontSize: chartConfig.tickFontSize, fill: '#335c67' }}
+                    height={chartConfig.xAxisHeight}
+                    tickFormatter={(value, index) =>
+                      getChartAxisLabel(String(value), index, viewportMode, chartData.length)
+                    }
+                  />
+                  <YAxis
+                    allowDecimals={false}
+                    width={chartConfig.yAxisWidth}
+                    tick={{ fontSize: chartConfig.yAxisFontSize, fill: '#335c67' }}
+                  />
+                  <Tooltip content={<ChartTooltip viewportMode={viewportMode} />} />
+                  <Line
+                    type="monotone"
+                    dataKey="projetado"
+                    name="Planejado"
+                    stroke="#ff8fa3"
+                    strokeWidth={chartConfig.strokeWidth}
+                    dot={{ r: chartConfig.dotRadius, strokeWidth: 0 }}
+                    activeDot={{ r: chartConfig.activeDotRadius }}
+                  />
+                  <Line
+                    type="monotone"
+                    dataKey="realizado"
+                    name="Realizado"
+                    stroke="#52b788"
+                    strokeWidth={chartConfig.strokeWidth}
+                    dot={{ r: chartConfig.dotRadius, strokeWidth: 0 }}
+                    connectNulls={false}
+                    activeDot={{ r: chartConfig.activeDotRadius }}
+                  />
+                  {deltaPoints.map((point) => {
+                    const delta = point.diferenca ?? 0
 
-                  return (
-                    <ReferenceDot
-                      key={point.label}
-                      x={point.label}
-                      y={point.realizado ?? point.projetado}
-                      r={5}
-                      fill={getDeltaColor(delta)}
-                      stroke="#08111f"
-                      strokeWidth={2}
-                      label={{
-                        value: formatDelta(delta),
-                        position: delta >= 0 ? 'top' : 'bottom',
-                        offset: 0,
-                        fill: getDeltaColor(delta),
-                        fontSize: chartDensity === 'compact' ? 10 : 12,
-                        fontWeight: 700,
-                      }}
-                    />
-                  )
-                })}
-              </LineChart>
-            </ResponsiveContainer>
+                    return (
+                      <ReferenceDot
+                        key={point.label}
+                        x={chartConfig.xAxisDataKey === 'roundLabel' ? point.roundLabel : point.label}
+                        y={point.realizado ?? point.projetado}
+                        r={chartConfig.referenceDotRadius}
+                        fill={getDeltaColor(delta)}
+                        stroke="#08111f"
+                        strokeWidth={2}
+                        label={
+                          chartConfig.showDeltaLabels
+                            ? {
+                                value: formatDelta(delta),
+                                position: delta >= 0 ? 'top' : 'bottom',
+                                offset: 0,
+                                fill: getDeltaColor(delta),
+                                fontSize: chartConfig.deltaFontSize,
+                                fontWeight: 700,
+                              }
+                            : undefined
+                        }
+                      />
+                    )
+                  })}
+                </LineChart>
+              </ResponsiveContainer>
+            </div>
           </div>
-          <div className={`chart-legend chart-legend-${chartDensity}`} aria-label="Legenda do gráfico">
+          {viewportMode === 'mobile' ? (
+            <p className="chart-mobile-hint">Arraste na horizontal para ver todas as rodadas e toque em um ponto para atualizar o card abaixo.</p>
+          ) : null}
+          <div className={`chart-legend chart-legend-${viewportMode}`} aria-label="Legenda do gráfico">
             <span className="chart-legend-item">
               <span className="chart-legend-swatch chart-legend-swatch-realizado" aria-hidden="true" />
               Realizado
@@ -304,6 +364,27 @@ function App() {
               Planejado
             </span>
           </div>
+          {viewportMode === 'mobile' && selectedPoint ? (
+            <article className="chart-detail-card" aria-label="Detalhes do confronto selecionado">
+              <div className="chart-detail-header">
+                <div className="chart-detail-title-group">
+                  <span className="chart-detail-kicker">
+                    {detailMode === 'selected' ? 'Confronto selecionado no gráfico' : 'Último confronto finalizado'}
+                  </span>
+                  <strong>{selectedPoint.opponent}</strong>
+                </div>
+                <span>{selectedPoint.date}</span>
+              </div>
+              <div className="chart-detail-grid">
+                <span>Rodada: {selectedPoint.matchday}</span>
+                <span>Local: {selectedPoint.local === 'CASA' ? 'Casa' : 'Fora'}</span>
+                <span>Status: {selectedPoint.status}</span>
+                <span>Realizado: {selectedPoint.realizado ?? '-'} pts</span>
+                <span>Planejado: {selectedPoint.projetado} pts</span>
+                <span>Delta: {formatDelta(selectedPoint.diferenca)}</span>
+              </div>
+            </article>
+          ) : null}
         </div>
 
         <section className="credits-panel" aria-label="Informações adicionais">
@@ -369,9 +450,12 @@ function buildChartData(teamData: TeamData, projectionData: ProjectionData): Cha
 
     return {
       label: `${normalizeTeamName(match.adversario)} (${match.local === 'CASA' ? 'C' : 'F'})`,
+      roundLabel: `R${match.matchday}`,
       opponent: normalizeTeamName(match.adversario),
       date: formatDate(match.date),
       status: translateStatus(match.status),
+      local: match.local,
+      matchday: match.matchday,
       pontosPossiveis,
       realizado: realizedValue,
       realizadoResultado: match.status === 'FINISHED' ? match.resultado : null,
@@ -408,53 +492,108 @@ function getCurrentProjectedValue(data: ChartPoint[]) {
   return data[lastFinishedIndex]?.projetado ?? 0
 }
 
-type ChartDensity = 'default' | 'tight' | 'compact' | 'micro'
-
-function getViewportHeight() {
-  return typeof globalThis.window === 'undefined' ? 1080 : globalThis.window.innerHeight
-}
-
 function getViewportWidth() {
   return typeof globalThis.window === 'undefined' ? 1440 : globalThis.window.innerWidth
 }
 
-function getChartDensity(viewportHeight: number, viewportWidth: number): ChartDensity {
-  if (viewportWidth <= 760 || viewportHeight <= 600) {
-    return 'micro'
+function getViewportMode(viewportWidth: number): ViewportMode {
+  if (viewportWidth < 768) {
+    return 'mobile'
   }
 
-  if (viewportWidth <= 960 || viewportHeight <= 760) {
-    return 'compact'
+  if (viewportWidth < 1024) {
+    return 'tablet'
   }
 
-  if (viewportWidth <= 1280 || viewportHeight <= 820) {
-    return 'tight'
-  }
-
-  return 'default'
+  return 'desktop'
 }
 
-function getChartAxisLabel(label: string, index: number, density: ChartDensity, totalTicks: number) {
-  if (density === 'default') {
-    return index === 0 || index === totalTicks - 1 ? compactAxisLabel(label, 'tight') : label
+function getChartConfig(viewportMode: ViewportMode, totalPoints: number): ChartConfig {
+  if (viewportMode === 'mobile') {
+    return {
+      canvasWidth: `${Math.max(totalPoints * 34, 760)}px`,
+      margin: { top: 12, right: 8, left: 0, bottom: 20 },
+      xAxisDataKey: 'roundLabel',
+      xAxisAngle: 0,
+      xAxisHeight: 30,
+      xAxisPadding: { left: 10, right: 10 },
+      minTickGap: 14,
+      tickMargin: 6,
+      tickFontSize: 10,
+      yAxisWidth: 28,
+      yAxisFontSize: 10,
+      strokeWidth: 3,
+      dotRadius: 2,
+      activeDotRadius: 5,
+      referenceDotRadius: 4,
+      deltaFontSize: 10,
+      showDeltaLabels: false,
+      showVerticalGrid: false,
+    }
   }
 
-  if (density === 'micro' && index % 5 !== 0) {
-    return ''
+  if (viewportMode === 'tablet') {
+    return {
+      canvasWidth: '100%',
+      margin: { top: 12, right: 10, left: 8, bottom: 38 },
+      xAxisDataKey: 'label',
+      xAxisAngle: -24,
+      xAxisHeight: 70,
+      xAxisPadding: { left: 12, right: 12 },
+      minTickGap: 8,
+      tickMargin: 8,
+      tickFontSize: 9,
+      yAxisWidth: 36,
+      yAxisFontSize: 11,
+      strokeWidth: 3,
+      dotRadius: 3,
+      activeDotRadius: 5,
+      referenceDotRadius: 5,
+      deltaFontSize: 11,
+      showDeltaLabels: true,
+      showVerticalGrid: false,
+    }
   }
 
-  if (density === 'compact' && index % 3 !== 0) {
-    return ''
+  return {
+    canvasWidth: '100%',
+    margin: { top: 12, right: 10, left: 10, bottom: 54 },
+    xAxisDataKey: 'label',
+    xAxisAngle: -38,
+    xAxisHeight: 118,
+    xAxisPadding: { left: 12, right: 12 },
+    minTickGap: 8,
+    tickMargin: 12,
+    tickFontSize: 11,
+    yAxisWidth: 36,
+    yAxisFontSize: 12,
+    strokeWidth: 3,
+    dotRadius: 3,
+    activeDotRadius: 5,
+    referenceDotRadius: 5,
+    deltaFontSize: 12,
+    showDeltaLabels: true,
+    showVerticalGrid: true,
   }
-
-  if (density === 'tight' && index % 2 !== 0) {
-    return ''
-  }
-
-  return compactAxisLabel(label, density)
 }
 
-function compactAxisLabel(label: string, density: ChartDensity) {
+function getChartAxisLabel(label: string, index: number, viewportMode: ViewportMode, totalTicks: number) {
+  if (viewportMode === 'mobile') {
+    return index === 0 || index === totalTicks - 1 || index % 4 === 0 ? label : ''
+  }
+
+  if (viewportMode === 'desktop') {
+    return index === 0 || index === totalTicks - 1 ? compactAxisLabel(label, 'tablet') : label
+  }
+
+  if (viewportMode === 'tablet' && index % 2 !== 0) {
+    return ''
+  }
+
+  return compactAxisLabel(label, viewportMode)
+}
+
+function compactAxisLabel(label: string, viewportMode: ViewportMode) {
   const shortLabel = label
     .replace(/\s*\((C|F)\)$/, ' ($1)')
     .replace(/\bClube do\b/g, 'C. do')
@@ -470,8 +609,12 @@ function compactAxisLabel(label: string, density: ChartDensity) {
     .replace(/\bBragantino\b/g, 'Braga')
     .replace(/\bParanaense\b/g, 'CAP')
 
-  const maxLength = density === 'micro' ? 6 : density === 'compact' ? 10 : 14
+  const maxLength = viewportMode === 'mobile' ? 8 : viewportMode === 'tablet' ? 10 : 14
   return shortLabel.length > maxLength ? `${shortLabel.slice(0, maxLength - 1)}…` : shortLabel
+}
+
+function getDefaultSelectedPoint(data: ChartPoint[]) {
+  return [...data].reverse().find((item) => item.realizado !== null) ?? data[0] ?? null
 }
 
 function getLastRealizedValue(data: ChartPoint[]) {
@@ -498,6 +641,10 @@ function formatLastUpdated(lastUpdateData: LastUpdateData) {
 }
 
 function normalizeTeamName(value: string) {
+  if (!/[Ãâ]/.test(value)) {
+    return value
+  }
+
   try {
     const bytes = Uint8Array.from(value, (char) => char.charCodeAt(0))
     return new TextDecoder('utf-8', { fatal: true }).decode(bytes)
@@ -520,7 +667,7 @@ function translateStatus(value: string) {
 
 function formatDelta(value: number | null) {
   if (value === null) {
-    return ''
+    return '-'
   }
 
   if (value === 0) {
@@ -560,6 +707,7 @@ function formatPercentage(value: number | null, total: number) {
 }
 
 type TooltipProps = {
+  viewportMode: ViewportMode
   active?: boolean
   payload?: Array<{
     value: number | null
@@ -570,7 +718,7 @@ type TooltipProps = {
   label?: string
 }
 
-function ChartTooltip({ active, payload, label }: TooltipProps) {
+function ChartTooltip({ active, payload, label, viewportMode }: TooltipProps) {
   if (!active || !payload?.length) {
     return null
   }
@@ -581,13 +729,18 @@ function ChartTooltip({ active, payload, label }: TooltipProps) {
   }
 
   return (
-    <div className="chart-tooltip">
-      <strong>{label}</strong>
+    <div className={`chart-tooltip chart-tooltip-${viewportMode}`}>
+      <strong>{viewportMode === 'mobile' ? `${point.opponent} • ${point.roundLabel}` : label}</strong>
       <span>{point.date}</span>
       <span>Status: {point.status}</span>
       {payload.map((entry) => (
         <span key={entry.name} style={{ color: entry.color }}>
-          {entry.name}: {entry.value ?? '-'} pts {`(${formatPercentage(entry.value, point.pontosPossiveis)}, ${entry.name === 'Realizado' ? translateMatchResult(point.realizadoResultado) : translateMatchResult(point.projetadoResultado)})`}
+          {entry.name}: {entry.value ?? '-'} pts{' '}
+          {`(${formatPercentage(entry.value, point.pontosPossiveis)}, ${
+            entry.name === 'Realizado'
+              ? translateMatchResult(point.realizadoResultado)
+              : translateMatchResult(point.projetadoResultado)
+          })`}
         </span>
       ))}
     </div>
@@ -595,6 +748,3 @@ function ChartTooltip({ active, payload, label }: TooltipProps) {
 }
 
 export default App
-
-
-
