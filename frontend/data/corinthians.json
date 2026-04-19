@@ -141,14 +141,14 @@
     {
       "matchId": 554859,
       "date": "2026-04-18T23:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "matchday": 12,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 0
     },
     {
       "matchId": 554865,
