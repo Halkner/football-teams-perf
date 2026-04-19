@@ -141,12 +141,12 @@
     {
       "matchId": 554853,
       "date": "2026-04-18T23:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 12,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "V",
       "golsPro": 1,
       "golsContra": 0
     },
