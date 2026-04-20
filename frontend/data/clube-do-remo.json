@@ -141,14 +141,14 @@
     {
       "matchId": 554850,
       "date": "2026-04-19T21:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 12,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "D",
+      "golsPro": 2,
+      "golsContra": 4
     },
     {
       "matchId": 554868,

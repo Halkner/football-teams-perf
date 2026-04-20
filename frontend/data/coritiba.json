@@ -141,14 +141,14 @@
     {
       "matchId": 554852,
       "date": "2026-04-19T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 12,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
       "local": "CASA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "V",
+      "golsPro": 2,
+      "golsContra": 0
     },
     {
       "matchId": 554867,
