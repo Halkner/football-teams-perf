@@ -153,14 +153,14 @@
     {
       "matchId": 554862,
       "date": "2026-04-25T21:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 13,
       "adversario": "Santos FC",
       "adversarioId": 6685,
       "local": "CASA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 1
     },
     {
       "matchId": 554878,
