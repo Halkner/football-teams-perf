@@ -116,6 +116,7 @@ h1 {
 
 .team-picker-shell {
   position: relative;
+  z-index: 1;
   min-height: 48px;
   border: 1px solid rgba(148, 163, 184, 0.22);
   border-radius: 16px;
@@ -187,7 +188,7 @@ h1 {
   top: calc(100% + 10px);
   left: 0;
   right: 0;
-  z-index: 20;
+  z-index: 999;
   display: grid;
   gap: 6px;
   padding: 8px;
