@@ -212,8 +212,8 @@
     },
     {
       "matchId": 554917,
-      "date": "2026-05-30T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-05-30T22:30:00Z",
+      "status": "TIMED",
       "matchday": 18,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,

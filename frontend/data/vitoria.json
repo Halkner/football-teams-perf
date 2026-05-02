@@ -212,8 +212,8 @@
     },
     {
       "matchId": 554918,
-      "date": "2026-05-30T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-05-31T00:00:00Z",
+      "status": "TIMED",
       "matchday": 18,
       "adversario": "Santos FC",
       "adversarioId": 6685,
