@@ -165,14 +165,14 @@
     {
       "matchId": 554878,
       "date": "2026-05-03T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 14,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
       "local": "FORA",
       "resultado": null,
-      "golsPro": 0,
-      "golsContra": 1
+      "golsPro": 1,
+      "golsContra": 2
     },
     {
       "matchId": 554881,
