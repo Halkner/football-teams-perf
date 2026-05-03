@@ -165,13 +165,13 @@
     {
       "matchId": 554874,
       "date": "2026-05-03T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 14,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": 1,
+      "resultado": "E",
+      "golsPro": 2,
       "golsContra": 2
     },
     {
