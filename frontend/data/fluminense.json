@@ -165,12 +165,12 @@
     {
       "matchId": 554875,
       "date": "2026-05-03T21:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 14,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 0,
       "golsContra": 2
     },
