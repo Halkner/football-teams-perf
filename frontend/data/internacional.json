@@ -177,14 +177,14 @@
     {
       "matchId": 554883,
       "date": "2026-05-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "matchday": 15,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 1
     },
     {
       "matchId": 554897,
