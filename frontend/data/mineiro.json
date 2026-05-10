@@ -177,14 +177,14 @@
     {
       "matchId": 554880,
       "date": "2026-05-10T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 15,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
       "local": "CASA",
       "resultado": null,
       "golsPro": 1,
-      "golsContra": 0
+      "golsContra": 1
     },
     {
       "matchId": 554891,
