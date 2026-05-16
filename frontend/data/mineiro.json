@@ -189,14 +189,14 @@
     {
       "matchId": 554891,
       "date": "2026-05-16T21:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 16,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
       "local": "CASA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 1,
+      "golsContra": 0
     },
     {
       "matchId": 554900,
