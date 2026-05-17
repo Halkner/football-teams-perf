@@ -189,13 +189,13 @@
     {
       "matchId": 554893,
       "date": "2026-05-17T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 16,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
       "local": "CASA",
       "resultado": null,
-      "golsPro": 2,
+      "golsPro": 3,
       "golsContra": 1
     },
     {
