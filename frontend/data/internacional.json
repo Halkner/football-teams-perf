@@ -189,14 +189,14 @@
     {
       "matchId": 554897,
       "date": "2026-05-16T21:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 16,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
       "local": "CASA",
-      "resultado": null,
-      "golsPro": 3,
-      "golsContra": 0
+      "resultado": "V",
+      "golsPro": 4,
+      "golsContra": 1
     },
     {
       "matchId": 554909,
