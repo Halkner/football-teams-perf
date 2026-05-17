@@ -189,14 +189,14 @@
     {
       "matchId": 554892,
       "date": "2026-05-17T19:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "matchday": 16,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 0
     },
     {
       "matchId": 554904,
