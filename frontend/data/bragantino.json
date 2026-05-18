@@ -189,13 +189,13 @@
     {
       "matchId": 554894,
       "date": "2026-05-17T21:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 16,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
       "local": "CASA",
-      "resultado": null,
-      "golsPro": 1,
+      "resultado": "V",
+      "golsPro": 2,
       "golsContra": 0
     },
     {
