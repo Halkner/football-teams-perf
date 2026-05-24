@@ -201,14 +201,14 @@
     {
       "matchId": 554902,
       "date": "2026-05-24T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 17,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
       "local": "CASA",
       "resultado": null,
-      "golsPro": 1,
-      "golsContra": 0
+      "golsPro": 2,
+      "golsContra": 2
     },
     {
       "matchId": 554913,
