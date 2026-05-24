@@ -201,12 +201,12 @@
     {
       "matchId": 554903,
       "date": "2026-05-24T00:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "matchday": 17,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 0,
       "golsContra": 3
     },
