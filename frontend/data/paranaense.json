@@ -201,14 +201,14 @@
     {
       "matchId": 554906,
       "date": "2026-05-24T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 17,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 1,
+      "golsContra": 1
     },
     {
       "matchId": 554910,
