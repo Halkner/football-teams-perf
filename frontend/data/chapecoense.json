@@ -201,12 +201,12 @@
     {
       "matchId": 554902,
       "date": "2026-05-24T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 17,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "E",
       "golsPro": 2,
       "golsContra": 2
     },
