@@ -201,14 +201,14 @@
     {
       "matchId": 554900,
       "date": "2026-05-24T21:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 17,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 0,
-      "golsContra": 0
+      "golsContra": 1
     },
     {
       "matchId": 554919,
