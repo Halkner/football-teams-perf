@@ -201,12 +201,12 @@
     {
       "matchId": 554908,
       "date": "2026-05-24T23:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 17,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "V",
       "golsPro": 2,
       "golsContra": 0
     },
