@@ -213,14 +213,14 @@
     {
       "matchId": 554911,
       "date": "2026-05-30T20:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 18,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
       "local": "CASA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 1
     },
     {
       "matchId": 554920,

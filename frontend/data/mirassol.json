@@ -213,14 +213,14 @@
     {
       "matchId": 554910,
       "date": "2026-05-30T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 18,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
       "local": "FORA",
       "resultado": null,
       "golsPro": 0,
-      "golsContra": 0
+      "golsContra": 1
     },
     {
       "matchId": 554927,

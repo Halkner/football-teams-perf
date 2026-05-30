@@ -213,14 +213,14 @@
     {
       "matchId": 554915,
       "date": "2026-05-30T20:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 18,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 1
     },
     {
       "matchId": 554923,
