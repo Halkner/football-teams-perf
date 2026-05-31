@@ -206,21 +206,21 @@
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
       "local": "FORA",
-      "resultado": "D",
-      "golsPro": 1,
+      "resultado": "E",
+      "golsPro": 2,
       "golsContra": 2
     },
     {
       "matchId": 554916,
       "date": "2026-05-31T19:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "matchday": 18,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 0
     },
     {
       "matchId": 554922,

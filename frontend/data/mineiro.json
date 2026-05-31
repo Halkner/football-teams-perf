@@ -213,14 +213,14 @@
     {
       "matchId": 554919,
       "date": "2026-05-31T19:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "matchday": 18,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 1,
+      "golsContra": 0
     },
     {
       "matchId": 554920,

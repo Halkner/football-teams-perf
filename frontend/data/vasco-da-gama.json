@@ -213,14 +213,14 @@
     {
       "matchId": 554919,
       "date": "2026-05-31T19:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "matchday": 18,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
       "local": "CASA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 1
     },
     {
       "matchId": 554929,
