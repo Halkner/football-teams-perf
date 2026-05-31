@@ -213,14 +213,14 @@
     {
       "matchId": 554916,
       "date": "2026-05-31T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 18,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
       "local": "FORA",
       "resultado": null,
       "golsPro": 0,
-      "golsContra": 0
+      "golsContra": 1
     },
     {
       "matchId": 554922,
