@@ -195,7 +195,7 @@
       "adversarioId": 1776,
       "local": "CASA",
       "resultado": "V",
-      "golsPro": 3,
+      "golsPro": 2,
       "golsContra": 1
     },
     {
@@ -218,9 +218,9 @@
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
       "local": "FORA",
-      "resultado": "E",
+      "resultado": "V",
       "golsPro": 1,
-      "golsContra": 1
+      "golsContra": 0
     },
     {
       "matchId": 554925,
