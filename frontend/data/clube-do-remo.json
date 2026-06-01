@@ -213,13 +213,13 @@
     {
       "matchId": 554917,
       "date": "2026-05-31T23:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 18,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
       "local": "CASA",
-      "resultado": null,
-      "golsPro": 0,
+      "resultado": "V",
+      "golsPro": 1,
       "golsContra": 0
     },
     {
