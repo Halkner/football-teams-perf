@@ -224,8 +224,8 @@
     },
     {
       "matchId": 554923,
-      "date": "2026-07-22T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-23T22:30:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -236,8 +236,8 @@
     },
     {
       "matchId": 554937,
-      "date": "2026-07-25T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-26T22:30:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "EC Vitória",
       "adversarioId": 1782,

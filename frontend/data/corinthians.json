@@ -224,8 +224,8 @@
     },
     {
       "matchId": 554923,
-      "date": "2026-07-22T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-23T22:30:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -236,8 +236,8 @@
     },
     {
       "matchId": 554931,
-      "date": "2026-07-25T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-26T19:00:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "EC Bahia",
       "adversarioId": 1777,

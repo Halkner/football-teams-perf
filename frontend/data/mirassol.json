@@ -224,8 +224,8 @@
     },
     {
       "matchId": 554927,
-      "date": "2026-07-22T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-17T00:30:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
@@ -236,8 +236,8 @@
     },
     {
       "matchId": 554939,
-      "date": "2026-07-25T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-25T23:30:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,

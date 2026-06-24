@@ -224,8 +224,8 @@
     },
     {
       "matchId": 554921,
-      "date": "2026-07-22T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-16T22:30:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -236,8 +236,8 @@
     },
     {
       "matchId": 554938,
-      "date": "2026-07-25T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-25T21:30:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,

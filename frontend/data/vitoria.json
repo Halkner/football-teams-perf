@@ -224,8 +224,8 @@
     },
     {
       "matchId": 554929,
-      "date": "2026-07-22T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-16T22:30:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
@@ -236,8 +236,8 @@
     },
     {
       "matchId": 554937,
-      "date": "2026-07-25T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-26T22:30:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,

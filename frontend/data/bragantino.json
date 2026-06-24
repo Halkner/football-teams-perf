@@ -224,8 +224,8 @@
     },
     {
       "matchId": 554925,
-      "date": "2026-07-22T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-18T00:30:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -236,8 +236,8 @@
     },
     {
       "matchId": 554932,
-      "date": "2026-07-25T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-26T21:30:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,

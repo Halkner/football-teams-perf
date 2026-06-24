@@ -224,8 +224,8 @@
     },
     {
       "matchId": 554926,
-      "date": "2026-07-22T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-23T00:30:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
@@ -236,8 +236,8 @@
     },
     {
       "matchId": 554933,
-      "date": "2026-07-25T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-26T19:00:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,

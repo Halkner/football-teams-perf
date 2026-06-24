@@ -224,8 +224,8 @@
     },
     {
       "matchId": 554929,
-      "date": "2026-07-22T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-16T22:30:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -236,8 +236,8 @@
     },
     {
       "matchId": 554939,
-      "date": "2026-07-25T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-25T23:30:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,

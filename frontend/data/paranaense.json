@@ -224,8 +224,8 @@
     },
     {
       "matchId": 554928,
-      "date": "2026-07-22T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-23T00:30:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
@@ -236,8 +236,8 @@
     },
     {
       "matchId": 554930,
-      "date": "2026-07-25T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-25T21:30:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "SC Internacional",
       "adversarioId": 6684,

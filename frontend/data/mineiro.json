@@ -224,8 +224,8 @@
     },
     {
       "matchId": 554920,
-      "date": "2026-07-22T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-21T22:30:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
@@ -236,8 +236,8 @@
     },
     {
       "matchId": 554936,
-      "date": "2026-07-25T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-26T22:30:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,

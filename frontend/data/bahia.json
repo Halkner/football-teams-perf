@@ -224,8 +224,8 @@
     },
     {
       "matchId": 554920,
-      "date": "2026-07-22T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-21T22:30:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
@@ -236,8 +236,8 @@
     },
     {
       "matchId": 554931,
-      "date": "2026-07-25T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-26T19:00:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
