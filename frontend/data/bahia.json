@@ -43,18 +43,6 @@
       "golsContra": 0
     },
     {
-      "matchId": 554770,
-      "date": "2026-02-25T00:00:00Z",
-      "status": "POSTPONED",
-      "matchday": 4,
-      "adversario": "Chapecoense AF",
-      "adversarioId": 1772,
-      "local": "CASA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
-    },
-    {
       "matchId": 554782,
       "date": "2026-03-11T23:00:00Z",
       "status": "FINISHED",
@@ -221,6 +209,18 @@
       "resultado": "V",
       "golsPro": 2,
       "golsContra": 1
+    },
+    {
+      "matchId": 554770,
+      "date": "2026-07-17T22:30:00Z",
+      "status": "TIMED",
+      "matchday": 4,
+      "adversario": "Chapecoense AF",
+      "adversarioId": 1772,
+      "local": "CASA",
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 554920,
