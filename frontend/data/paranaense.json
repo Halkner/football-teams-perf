@@ -248,8 +248,8 @@
     },
     {
       "matchId": 554943,
-      "date": "2026-07-29T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-07-30T22:30:00Z",
+      "status": "TIMED",
       "matchday": 21,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -260,8 +260,8 @@
     },
     {
       "matchId": 554959,
-      "date": "2026-08-08T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-08-09T21:30:00Z",
+      "status": "TIMED",
       "matchday": 22,
       "adversario": "Santos FC",
       "adversarioId": 6685,
@@ -272,8 +272,8 @@
     },
     {
       "matchId": 554960,
-      "date": "2026-08-15T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-08-15T21:30:00Z",
+      "status": "TIMED",
       "matchday": 23,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
@@ -284,8 +284,8 @@
     },
     {
       "matchId": 554970,
-      "date": "2026-08-22T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-08-24T23:00:00Z",
+      "status": "TIMED",
       "matchday": 24,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
