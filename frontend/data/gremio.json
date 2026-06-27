@@ -248,8 +248,8 @@
     },
     {
       "matchId": 554941,
-      "date": "2026-07-29T20:00:00Z",
-      "status": "TIMED",
+      "date": "2026-07-29T00:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 21,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -260,8 +260,8 @@
     },
     {
       "matchId": 554956,
-      "date": "2026-08-08T19:00:00Z",
-      "status": "TIMED",
+      "date": "2026-08-08T00:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 22,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
@@ -272,8 +272,8 @@
     },
     {
       "matchId": 554961,
-      "date": "2026-08-15T19:30:00Z",
-      "status": "TIMED",
+      "date": "2026-08-15T00:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 23,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
@@ -284,8 +284,8 @@
     },
     {
       "matchId": 554971,
-      "date": "2026-08-23T19:00:00Z",
-      "status": "TIMED",
+      "date": "2026-08-22T00:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 24,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
