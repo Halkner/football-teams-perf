@@ -225,7 +225,7 @@
     {
       "matchId": 554924,
       "date": "2026-07-22T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-22 20:00:00Z",
       "matchday": 19,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
@@ -237,7 +237,7 @@
     {
       "matchId": 554936,
       "date": "2026-07-26T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-26 20:00:00Z",
       "matchday": 20,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
@@ -249,7 +249,7 @@
     {
       "matchId": 554949,
       "date": "2026-07-30T00:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-29 20:00:00Z",
       "matchday": 21,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -261,7 +261,7 @@
     {
       "matchId": 554957,
       "date": "2026-08-09T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-09 20:00:00Z",
       "matchday": 22,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
@@ -273,7 +273,7 @@
     {
       "matchId": 554964,
       "date": "2026-08-15T19:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-16 20:00:00Z",
       "matchday": 23,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -285,7 +285,7 @@
     {
       "matchId": 554977,
       "date": "2026-08-23T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-23 20:00:00Z",
       "matchday": 24,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,

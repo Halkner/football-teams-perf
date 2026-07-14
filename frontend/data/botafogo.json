@@ -213,7 +213,7 @@
     {
       "matchId": 554921,
       "date": "2026-07-16T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-22 20:00:00Z",
       "matchday": 19,
       "adversario": "Santos FC",
       "adversarioId": 6685,
@@ -225,7 +225,7 @@
     {
       "matchId": 554771,
       "date": "2026-07-23T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-02-25 00:00:00Z",
       "matchday": 4,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -237,7 +237,7 @@
     {
       "matchId": 554933,
       "date": "2026-07-26T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-07-26 20:00:00Z",
       "matchday": 20,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
@@ -261,7 +261,7 @@
     {
       "matchId": 554951,
       "date": "2026-08-09T00:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-09 20:00:00Z",
       "matchday": 22,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -273,7 +273,7 @@
     {
       "matchId": 554969,
       "date": "2026-08-16T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-16 20:00:00Z",
       "matchday": 23,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -285,7 +285,7 @@
     {
       "matchId": 554970,
       "date": "2026-08-24T23:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-23 20:00:00Z",
       "matchday": 24,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,

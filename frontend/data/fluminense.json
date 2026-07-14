@@ -225,7 +225,7 @@
     {
       "matchId": 554925,
       "date": "2026-07-17T23:00:00Z",
-      "status": "TIMED",
+      "status": "2026-07-22 20:00:00Z",
       "matchday": 19,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
@@ -237,7 +237,7 @@
     {
       "matchId": 554935,
       "date": "2026-07-26T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-26 20:00:00Z",
       "matchday": 20,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
@@ -249,7 +249,7 @@
     {
       "matchId": 554945,
       "date": "2026-07-30T00:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-29 20:00:00Z",
       "matchday": 21,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
@@ -261,7 +261,7 @@
     {
       "matchId": 554951,
       "date": "2026-08-09T00:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-09 20:00:00Z",
       "matchday": 22,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -273,7 +273,7 @@
     {
       "matchId": 554964,
       "date": "2026-08-15T19:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-16 20:00:00Z",
       "matchday": 23,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -285,7 +285,7 @@
     {
       "matchId": 554975,
       "date": "2026-08-22T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-23 20:00:00Z",
       "matchday": 24,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,

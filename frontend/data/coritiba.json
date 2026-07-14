@@ -225,7 +225,7 @@
     {
       "matchId": 554924,
       "date": "2026-07-22T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-22 20:00:00Z",
       "matchday": 19,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -237,7 +237,7 @@
     {
       "matchId": 554932,
       "date": "2026-07-26T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-26 20:00:00Z",
       "matchday": 20,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
@@ -249,7 +249,7 @@
     {
       "matchId": 554944,
       "date": "2026-07-31T00:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-29 20:00:00Z",
       "matchday": 21,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
@@ -261,7 +261,7 @@
     {
       "matchId": 554953,
       "date": "2026-08-08T23:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-09 20:00:00Z",
       "matchday": 22,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
@@ -273,7 +273,7 @@
     {
       "matchId": 554967,
       "date": "2026-08-16T00:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-16 20:00:00Z",
       "matchday": 23,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
@@ -285,7 +285,7 @@
     {
       "matchId": 554973,
       "date": "2026-08-23T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-23 20:00:00Z",
       "matchday": 24,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,

@@ -213,7 +213,7 @@
     {
       "matchId": 554929,
       "date": "2026-07-16T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-22 20:00:00Z",
       "matchday": 19,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
@@ -225,7 +225,7 @@
     {
       "matchId": 554771,
       "date": "2026-07-23T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-02-25 00:00:00Z",
       "matchday": 4,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -237,7 +237,7 @@
     {
       "matchId": 554937,
       "date": "2026-07-26T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-26 20:00:00Z",
       "matchday": 20,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -249,7 +249,7 @@
     {
       "matchId": 554949,
       "date": "2026-07-30T00:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-29 20:00:00Z",
       "matchday": 21,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -261,7 +261,7 @@
     {
       "matchId": 554955,
       "date": "2026-08-09T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-09 20:00:00Z",
       "matchday": 22,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
@@ -273,7 +273,7 @@
     {
       "matchId": 554969,
       "date": "2026-08-16T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-16 20:00:00Z",
       "matchday": 23,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -285,7 +285,7 @@
     {
       "matchId": 554979,
       "date": "2026-08-23T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-23 20:00:00Z",
       "matchday": 24,
       "adversario": "EC Bahia",
       "adversarioId": 1777,

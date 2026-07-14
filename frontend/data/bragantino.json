@@ -225,7 +225,7 @@
     {
       "matchId": 554925,
       "date": "2026-07-17T23:00:00Z",
-      "status": "TIMED",
+      "status": "2026-07-22 20:00:00Z",
       "matchday": 19,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -237,7 +237,7 @@
     {
       "matchId": 554932,
       "date": "2026-07-26T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-07-26 20:00:00Z",
       "matchday": 20,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
@@ -261,7 +261,7 @@
     {
       "matchId": 554952,
       "date": "2026-08-09T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-09 20:00:00Z",
       "matchday": 22,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -273,7 +273,7 @@
     {
       "matchId": 554960,
       "date": "2026-08-15T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-16 20:00:00Z",
       "matchday": 23,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
@@ -285,7 +285,7 @@
     {
       "matchId": 554971,
       "date": "2026-08-23T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-23 20:00:00Z",
       "matchday": 24,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
