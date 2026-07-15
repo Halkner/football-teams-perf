@@ -225,7 +225,7 @@
     {
       "matchId": 554923,
       "date": "2026-07-23T22:30:00Z",
-      "status": "2026-07-22 20:00:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -237,7 +237,7 @@
     {
       "matchId": 554937,
       "date": "2026-07-26T22:30:00Z",
-      "status": "2026-07-26 20:00:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -249,7 +249,7 @@
     {
       "matchId": 554947,
       "date": "2026-07-29T22:30:00Z",
-      "status": "2026-07-29 20:00:00Z",
+      "status": "TIMED",
       "matchday": 21,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
@@ -261,7 +261,7 @@
     {
       "matchId": 554958,
       "date": "2026-08-08T21:30:00Z",
-      "status": "2026-08-09 20:00:00Z",
+      "status": "TIMED",
       "matchday": 22,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
@@ -273,7 +273,7 @@
     {
       "matchId": 554965,
       "date": "2026-08-17T23:00:00Z",
-      "status": "2026-08-16 20:00:00Z",
+      "status": "TIMED",
       "matchday": 23,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
@@ -285,7 +285,7 @@
     {
       "matchId": 554975,
       "date": "2026-08-22T19:00:00Z",
-      "status": "2026-08-23 20:00:00Z",
+      "status": "TIMED",
       "matchday": 24,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,

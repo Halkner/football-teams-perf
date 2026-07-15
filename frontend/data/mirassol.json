@@ -225,7 +225,7 @@
     {
       "matchId": 554927,
       "date": "2026-07-17T23:00:00Z",
-      "status": "2026-07-22 20:00:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
@@ -237,7 +237,7 @@
     {
       "matchId": 554939,
       "date": "2026-07-25T23:30:00Z",
-      "status": "2026-07-26 20:00:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
@@ -249,7 +249,7 @@
     {
       "matchId": 554947,
       "date": "2026-07-29T22:30:00Z",
-      "status": "2026-07-29 20:00:00Z",
+      "status": "TIMED",
       "matchday": 21,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -261,7 +261,7 @@
     {
       "matchId": 554954,
       "date": "2026-08-09T14:00:00Z",
-      "status": "2026-08-09 20:00:00Z",
+      "status": "TIMED",
       "matchday": 22,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
@@ -273,7 +273,7 @@
     {
       "matchId": 554966,
       "date": "2026-08-16T21:30:00Z",
-      "status": "2026-08-16 20:00:00Z",
+      "status": "TIMED",
       "matchday": 23,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
@@ -285,7 +285,7 @@
     {
       "matchId": 554978,
       "date": "2026-08-23T21:30:00Z",
-      "status": "2026-08-23 20:00:00Z",
+      "status": "TIMED",
       "matchday": 24,
       "adversario": "Santos FC",
       "adversarioId": 6685,

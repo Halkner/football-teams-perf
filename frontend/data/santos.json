@@ -225,7 +225,7 @@
     {
       "matchId": 554921,
       "date": "2026-07-16T22:30:00Z",
-      "status": "2026-07-22 20:00:00Z",
+      "status": "TIMED",
       "matchday": 19,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -237,7 +237,7 @@
     {
       "matchId": 554938,
       "date": "2026-07-25T21:30:00Z",
-      "status": "2026-07-26 20:00:00Z",
+      "status": "TIMED",
       "matchday": 20,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
@@ -261,7 +261,7 @@
     {
       "matchId": 554959,
       "date": "2026-08-09T21:30:00Z",
-      "status": "2026-08-09 20:00:00Z",
+      "status": "TIMED",
       "matchday": 22,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
@@ -273,7 +273,7 @@
     {
       "matchId": 554968,
       "date": "2026-08-16T19:00:00Z",
-      "status": "2026-08-16 20:00:00Z",
+      "status": "TIMED",
       "matchday": 23,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
@@ -285,7 +285,7 @@
     {
       "matchId": 554978,
       "date": "2026-08-23T21:30:00Z",
-      "status": "2026-08-23 20:00:00Z",
+      "status": "TIMED",
       "matchday": 24,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
