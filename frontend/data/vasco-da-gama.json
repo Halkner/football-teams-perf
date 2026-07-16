@@ -225,14 +225,14 @@
     {
       "matchId": 554929,
       "date": "2026-07-16T22:30:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "matchday": 19,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 0
     },
     {
       "matchId": 554939,
