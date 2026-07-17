@@ -225,14 +225,14 @@
     {
       "matchId": 554921,
       "date": "2026-07-16T22:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 19,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 1,
-      "golsContra": 1
+      "golsContra": 2
     },
     {
       "matchId": 554938,
