@@ -213,14 +213,14 @@
     {
       "matchId": 554921,
       "date": "2026-07-16T22:30:00Z",
-      "status": "LIVE",
+      "status": "IN_PLAY",
       "matchday": 19,
       "adversario": "Santos FC",
       "adversarioId": 6685,
       "local": "CASA",
       "resultado": null,
-      "golsPro": 0,
-      "golsContra": 0
+      "golsPro": 1,
+      "golsContra": 1
     },
     {
       "matchId": 554771,
