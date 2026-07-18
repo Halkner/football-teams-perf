@@ -225,14 +225,14 @@
     {
       "matchId": 554925,
       "date": "2026-07-17T23:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 19,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "E",
       "golsPro": 1,
-      "golsContra": 0
+      "golsContra": 1
     },
     {
       "matchId": 554932,
