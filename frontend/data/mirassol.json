@@ -225,14 +225,14 @@
     {
       "matchId": 554927,
       "date": "2026-07-17T23:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 19,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
       "local": "CASA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 2,
+      "golsContra": 1
     },
     {
       "matchId": 554939,

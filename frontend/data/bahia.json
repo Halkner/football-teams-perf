@@ -213,13 +213,13 @@
     {
       "matchId": 554770,
       "date": "2026-07-17T22:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 4,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
       "local": "CASA",
-      "resultado": null,
-      "golsPro": 1,
+      "resultado": "V",
+      "golsPro": 2,
       "golsContra": 0
     },
     {
