@@ -225,13 +225,13 @@
     {
       "matchId": 554922,
       "date": "2026-07-23T00:30:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "matchday": 19,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": 0,
+      "resultado": "V",
+      "golsPro": 4,
       "golsContra": 0
     },
     {

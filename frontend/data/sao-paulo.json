@@ -225,14 +225,14 @@
     {
       "matchId": 554928,
       "date": "2026-07-23T00:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 19,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 1,
-      "golsContra": 0
+      "golsContra": 2
     },
     {
       "matchId": 554934,

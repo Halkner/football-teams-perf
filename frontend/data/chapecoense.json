@@ -225,14 +225,14 @@
     {
       "matchId": 554922,
       "date": "2026-07-23T00:30:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "matchday": 19,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 0,
-      "golsContra": 0
+      "golsContra": 4
     },
     {
       "matchId": 554938,
