@@ -237,13 +237,13 @@
     {
       "matchId": 554931,
       "date": "2026-07-26T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 20,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
       "local": "CASA",
-      "resultado": null,
-      "golsPro": 2,
+      "resultado": "E",
+      "golsPro": 1,
       "golsContra": 1
     },
     {
