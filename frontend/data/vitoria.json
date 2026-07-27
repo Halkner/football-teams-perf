@@ -237,14 +237,14 @@
     {
       "matchId": 554937,
       "date": "2026-07-26T22:30:00Z",
-      "status": "LIVE",
+      "status": "IN_PLAY",
       "matchday": 20,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
       "local": "FORA",
       "resultado": null,
       "golsPro": 0,
-      "golsContra": 0
+      "golsContra": 2
     },
     {
       "matchId": 554949,
