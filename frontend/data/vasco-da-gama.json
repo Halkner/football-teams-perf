@@ -248,8 +248,8 @@
     },
     {
       "matchId": 554942,
-      "date": "2026-07-29T20:00:00Z",
-      "status": "TIMED",
+      "date": "2026-07-29T00:00:00Z",
+      "status": "POSTPONED",
       "matchday": 21,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
