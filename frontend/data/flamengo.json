@@ -249,13 +249,13 @@
     {
       "matchId": 554946,
       "date": "2026-07-29T22:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 21,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": 0,
+      "resultado": "E",
+      "golsPro": 1,
       "golsContra": 1
     },
     {
