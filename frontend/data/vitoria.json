@@ -249,14 +249,14 @@
     {
       "matchId": 554949,
       "date": "2026-07-30T00:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 21,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 0,
-      "golsContra": 2
+      "golsContra": 4
     },
     {
       "matchId": 554955,

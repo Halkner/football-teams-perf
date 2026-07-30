@@ -249,12 +249,12 @@
     {
       "matchId": 554945,
       "date": "2026-07-30T00:30:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "matchday": 21,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "E",
       "golsPro": 0,
       "golsContra": 0
     },
