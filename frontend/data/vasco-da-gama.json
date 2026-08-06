@@ -237,12 +237,12 @@
     {
       "matchId": 554939,
       "date": "2026-07-25T23:30:00Z",
-      "status": "FINISHED",
+      "status": "2026-07-26 23:30:00Z",
       "matchday": 20,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
       "local": "CASA",
-      "resultado": "E",
+      "resultado": null,
       "golsPro": 1,
       "golsContra": 1
     },
