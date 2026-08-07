@@ -237,12 +237,12 @@
     {
       "matchId": 554938,
       "date": "2026-07-25T21:30:00Z",
-      "status": "2026-07-26 21:30:00Z",
+      "status": "FINISHED",
       "matchday": 20,
       "adversario": "Santos FC",
       "adversarioId": 6685,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "E",
       "golsPro": 2,
       "golsContra": 2
     },
