@@ -261,13 +261,13 @@
     {
       "matchId": 554956,
       "date": "2026-08-08T19:00:00Z",
-      "status": "PAUSED",
+      "status": "LIVE",
       "matchday": 22,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
       "local": "CASA",
       "resultado": null,
-      "golsPro": 0,
+      "golsPro": 2,
       "golsContra": 1
     },
     {
