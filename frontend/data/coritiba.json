@@ -261,14 +261,14 @@
     {
       "matchId": 554953,
       "date": "2026-08-08T23:30:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 22,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
       "local": "CASA",
-      "resultado": "V",
-      "golsPro": 2,
-      "golsContra": 1
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 554967,
