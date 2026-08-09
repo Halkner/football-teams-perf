@@ -261,13 +261,13 @@
     {
       "matchId": 554952,
       "date": "2026-08-09T21:30:00Z",
-      "status": "LIVE",
+      "status": "IN_PLAY",
       "matchday": 22,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
       "local": "FORA",
       "resultado": null,
-      "golsPro": 0,
+      "golsPro": 1,
       "golsContra": 0
     },
     {
