@@ -273,7 +273,7 @@
     {
       "matchId": 554968,
       "date": "2026-08-16T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-16 19:00:00Z",
       "matchday": 23,
       "adversario": "Santos FC",
       "adversarioId": 6685,
@@ -285,7 +285,7 @@
     {
       "matchId": 554977,
       "date": "2026-08-23T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-23 19:00:00Z",
       "matchday": 24,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -297,7 +297,7 @@
     {
       "matchId": 554989,
       "date": "2026-08-29T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-08-30 20:00:00Z",
       "matchday": 25,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
@@ -309,7 +309,7 @@
     {
       "matchId": 554995,
       "date": "2026-09-05T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-06 20:00:00Z",
       "matchday": 26,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -321,7 +321,7 @@
     {
       "matchId": 555006,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-13 20:00:00Z",
       "matchday": 27,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
@@ -333,7 +333,7 @@
     {
       "matchId": 555018,
       "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-20 20:00:00Z",
       "matchday": 28,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
@@ -345,7 +345,7 @@
     {
       "matchId": 555021,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 20:00:00Z",
       "matchday": 29,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -357,7 +357,7 @@
     {
       "matchId": 555039,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 20:00:00Z",
       "matchday": 30,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -369,7 +369,7 @@
     {
       "matchId": 555049,
       "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-18 20:00:00Z",
       "matchday": 31,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,

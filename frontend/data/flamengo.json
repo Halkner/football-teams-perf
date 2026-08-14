@@ -273,7 +273,7 @@
     {
       "matchId": 554966,
       "date": "2026-08-16T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-16 21:30:00Z",
       "matchday": 23,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
@@ -285,7 +285,7 @@
     {
       "matchId": 554974,
       "date": "2026-08-22T23:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-22 23:30:00Z",
       "matchday": 24,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
@@ -297,7 +297,7 @@
     {
       "matchId": 554984,
       "date": "2026-08-29T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-08-30 20:00:00Z",
       "matchday": 25,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -309,7 +309,7 @@
     {
       "matchId": 554997,
       "date": "2026-09-05T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-06 20:00:00Z",
       "matchday": 26,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -321,7 +321,7 @@
     {
       "matchId": 555005,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-13 20:00:00Z",
       "matchday": 27,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -333,7 +333,7 @@
     {
       "matchId": 555013,
       "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-20 20:00:00Z",
       "matchday": 28,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
@@ -345,7 +345,7 @@
     {
       "matchId": 555028,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 20:00:00Z",
       "matchday": 29,
       "adversario": "Santos FC",
       "adversarioId": 6685,
@@ -357,7 +357,7 @@
     {
       "matchId": 555035,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 20:00:00Z",
       "matchday": 30,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -369,7 +369,7 @@
     {
       "matchId": 555042,
       "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-18 20:00:00Z",
       "matchday": 31,
       "adversario": "EC Bahia",
       "adversarioId": 1777,

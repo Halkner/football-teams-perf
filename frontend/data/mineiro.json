@@ -273,7 +273,7 @@
     {
       "matchId": 554961,
       "date": "2026-08-16T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-16 19:00:00Z",
       "matchday": 23,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
@@ -285,7 +285,7 @@
     {
       "matchId": 554976,
       "date": "2026-08-22T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-22 21:30:00Z",
       "matchday": 24,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
@@ -297,7 +297,7 @@
     {
       "matchId": 554981,
       "date": "2026-08-29T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-08-30 20:00:00Z",
       "matchday": 25,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -309,7 +309,7 @@
     {
       "matchId": 554998,
       "date": "2026-09-05T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-06 20:00:00Z",
       "matchday": 26,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
@@ -321,7 +321,7 @@
     {
       "matchId": 555000,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-13 20:00:00Z",
       "matchday": 27,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -333,7 +333,7 @@
     {
       "matchId": 555011,
       "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-20 20:00:00Z",
       "matchday": 28,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
@@ -345,7 +345,7 @@
     {
       "matchId": 555020,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 20:00:00Z",
       "matchday": 29,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
@@ -357,7 +357,7 @@
     {
       "matchId": 555030,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 20:00:00Z",
       "matchday": 30,
       "adversario": "Santos FC",
       "adversarioId": 6685,
@@ -369,7 +369,7 @@
     {
       "matchId": 555041,
       "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-18 20:00:00Z",
       "matchday": 31,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,

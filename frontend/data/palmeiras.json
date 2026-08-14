@@ -273,7 +273,7 @@
     {
       "matchId": 554964,
       "date": "2026-08-15T19:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-15 19:30:00Z",
       "matchday": 23,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -285,7 +285,7 @@
     {
       "matchId": 554977,
       "date": "2026-08-23T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-23 19:00:00Z",
       "matchday": 24,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
@@ -297,7 +297,7 @@
     {
       "matchId": 554986,
       "date": "2026-08-29T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-08-30 20:00:00Z",
       "matchday": 25,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
@@ -309,7 +309,7 @@
     {
       "matchId": 554990,
       "date": "2026-09-05T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-06 20:00:00Z",
       "matchday": 26,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -321,7 +321,7 @@
     {
       "matchId": 555008,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-13 20:00:00Z",
       "matchday": 27,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
@@ -333,7 +333,7 @@
     {
       "matchId": 555014,
       "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-20 20:00:00Z",
       "matchday": 28,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
@@ -345,7 +345,7 @@
     {
       "matchId": 555026,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 20:00:00Z",
       "matchday": 29,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
@@ -357,7 +357,7 @@
     {
       "matchId": 555037,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 20:00:00Z",
       "matchday": 30,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -369,7 +369,7 @@
     {
       "matchId": 555040,
       "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-18 20:00:00Z",
       "matchday": 31,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,

@@ -273,7 +273,7 @@
     {
       "matchId": 554963,
       "date": "2026-08-16T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-16 22:30:00Z",
       "matchday": 23,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
@@ -285,7 +285,7 @@
     {
       "matchId": 554973,
       "date": "2026-08-23T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-23 22:30:00Z",
       "matchday": 24,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
@@ -297,7 +297,7 @@
     {
       "matchId": 554983,
       "date": "2026-08-29T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-08-30 20:00:00Z",
       "matchday": 25,
       "adversario": "Santos FC",
       "adversarioId": 6685,
@@ -309,7 +309,7 @@
     {
       "matchId": 554992,
       "date": "2026-09-05T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-06 20:00:00Z",
       "matchday": 26,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
@@ -321,7 +321,7 @@
     {
       "matchId": 555005,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-13 20:00:00Z",
       "matchday": 27,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
@@ -333,7 +333,7 @@
     {
       "matchId": 555012,
       "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-20 20:00:00Z",
       "matchday": 28,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -345,7 +345,7 @@
     {
       "matchId": 555025,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 20:00:00Z",
       "matchday": 29,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
@@ -357,7 +357,7 @@
     {
       "matchId": 555037,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 20:00:00Z",
       "matchday": 30,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -369,7 +369,7 @@
     {
       "matchId": 555044,
       "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-18 20:00:00Z",
       "matchday": 31,
       "adversario": "EC Vitória",
       "adversarioId": 1782,

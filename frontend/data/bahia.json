@@ -273,7 +273,7 @@
     {
       "matchId": 554962,
       "date": "2026-08-16T14:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-16 14:00:00Z",
       "matchday": 23,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
@@ -285,7 +285,7 @@
     {
       "matchId": 554979,
       "date": "2026-08-23T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-23 19:00:00Z",
       "matchday": 24,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -297,7 +297,7 @@
     {
       "matchId": 554982,
       "date": "2026-08-29T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-08-30 20:00:00Z",
       "matchday": 25,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
@@ -309,7 +309,7 @@
     {
       "matchId": 554991,
       "date": "2026-09-05T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-06 20:00:00Z",
       "matchday": 26,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
@@ -321,7 +321,7 @@
     {
       "matchId": 555001,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-13 20:00:00Z",
       "matchday": 27,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -333,7 +333,7 @@
     {
       "matchId": 555010,
       "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-20 20:00:00Z",
       "matchday": 28,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
@@ -345,7 +345,7 @@
     {
       "matchId": 555026,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 20:00:00Z",
       "matchday": 29,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -357,7 +357,7 @@
     {
       "matchId": 555031,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 20:00:00Z",
       "matchday": 30,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
@@ -369,7 +369,7 @@
     {
       "matchId": 555042,
       "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-18 20:00:00Z",
       "matchday": 31,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
