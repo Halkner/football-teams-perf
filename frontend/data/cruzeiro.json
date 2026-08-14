@@ -296,8 +296,8 @@
     },
     {
       "matchId": 554989,
-      "date": "2026-08-29T00:00:00Z",
-      "status": "2026-08-30 20:00:00Z",
+      "date": "2026-08-30T00:20:00Z",
+      "status": "TIMED",
       "matchday": 25,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
