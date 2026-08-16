@@ -273,14 +273,14 @@
     {
       "matchId": 554962,
       "date": "2026-08-16T14:00:00Z",
-      "status": "2026-08-16 13:00:00Z",
+      "status": "PAUSED",
       "matchday": 23,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 2,
+      "golsContra": 1
     },
     {
       "matchId": 554979,
