@@ -273,19 +273,19 @@
     {
       "matchId": 554960,
       "date": "2026-08-15T21:30:00Z",
-      "status": "FINISHED",
+      "status": "2026-08-16 20:30:00Z",
       "matchday": 23,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
       "local": "CASA",
-      "resultado": "E",
+      "resultado": null,
       "golsPro": 1,
       "golsContra": 1
     },
     {
       "matchId": 554970,
       "date": "2026-08-24T23:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-24 22:00:00Z",
       "matchday": 24,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -297,7 +297,7 @@
     {
       "matchId": 554980,
       "date": "2026-08-29T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-08-30 19:00:00Z",
       "matchday": 25,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -321,7 +321,7 @@
     {
       "matchId": 555004,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-13 19:00:00Z",
       "matchday": 27,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
@@ -333,7 +333,7 @@
     {
       "matchId": 555010,
       "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-20 19:00:00Z",
       "matchday": 28,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
@@ -345,7 +345,7 @@
     {
       "matchId": 555020,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 19:00:00Z",
       "matchday": 29,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
@@ -357,7 +357,7 @@
     {
       "matchId": 555033,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 19:00:00Z",
       "matchday": 30,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
@@ -369,7 +369,7 @@
     {
       "matchId": 555040,
       "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-18 19:00:00Z",
       "matchday": 31,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,

@@ -273,7 +273,7 @@
     {
       "matchId": 554965,
       "date": "2026-08-17T23:00:00Z",
-      "status": "TIMED",
+      "status": "2026-08-17 22:00:00Z",
       "matchday": 23,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -285,7 +285,7 @@
     {
       "matchId": 554976,
       "date": "2026-08-22T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-22 20:30:00Z",
       "matchday": 24,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
@@ -297,7 +297,7 @@
     {
       "matchId": 554982,
       "date": "2026-08-29T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-08-30 19:00:00Z",
       "matchday": 25,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
@@ -321,7 +321,7 @@
     {
       "matchId": 555003,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-13 19:00:00Z",
       "matchday": 27,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
@@ -333,7 +333,7 @@
     {
       "matchId": 555017,
       "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-20 19:00:00Z",
       "matchday": 28,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
@@ -345,7 +345,7 @@
     {
       "matchId": 555025,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 19:00:00Z",
       "matchday": 29,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -357,7 +357,7 @@
     {
       "matchId": 555036,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 19:00:00Z",
       "matchday": 30,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
@@ -369,7 +369,7 @@
     {
       "matchId": 555047,
       "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-18 19:00:00Z",
       "matchday": 31,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
