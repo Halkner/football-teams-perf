@@ -296,8 +296,8 @@
     },
     {
       "matchId": 554980,
-      "date": "2026-08-29T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-08-30T14:00:00Z",
+      "status": "TIMED",
       "matchday": 25,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -308,8 +308,8 @@
     },
     {
       "matchId": 554994,
-      "date": "2026-09-05T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-09-06T19:00:00Z",
+      "status": "TIMED",
       "matchday": 26,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,

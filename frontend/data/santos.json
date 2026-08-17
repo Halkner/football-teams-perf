@@ -296,8 +296,8 @@
     },
     {
       "matchId": 554983,
-      "date": "2026-08-29T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-08-30T19:00:00Z",
+      "status": "TIMED",
       "matchday": 25,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -308,8 +308,8 @@
     },
     {
       "matchId": 554996,
-      "date": "2026-09-05T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-09-06T19:00:00Z",
+      "status": "TIMED",
       "matchday": 26,
       "adversario": "SC Internacional",
       "adversarioId": 6684,

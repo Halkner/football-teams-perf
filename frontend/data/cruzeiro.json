@@ -308,8 +308,8 @@
     },
     {
       "matchId": 554994,
-      "date": "2026-09-05T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-09-06T19:00:00Z",
+      "status": "TIMED",
       "matchday": 26,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
