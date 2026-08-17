@@ -273,19 +273,19 @@
     {
       "matchId": 554960,
       "date": "2026-08-15T21:30:00Z",
-      "status": "2026-08-16 20:30:00Z",
+      "status": "FINISHED",
       "matchday": 23,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "E",
       "golsPro": 1,
       "golsContra": 1
     },
     {
       "matchId": 554971,
       "date": "2026-08-23T19:00:00Z",
-      "status": "2026-08-23 18:00:00Z",
+      "status": "TIMED",
       "matchday": 24,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
@@ -297,7 +297,7 @@
     {
       "matchId": 554988,
       "date": "2026-08-29T23:00:00Z",
-      "status": "2026-08-30 19:00:00Z",
+      "status": "TIMED",
       "matchday": 25,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
@@ -309,7 +309,7 @@
     {
       "matchId": 554991,
       "date": "2026-09-05T19:00:00Z",
-      "status": "2026-09-06 19:00:00Z",
+      "status": "TIMED",
       "matchday": 26,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
@@ -321,7 +321,7 @@
     {
       "matchId": 555002,
       "date": "2026-09-12T00:00:00Z",
-      "status": "2026-09-13 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 27,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -333,7 +333,7 @@
     {
       "matchId": 555013,
       "date": "2026-09-19T00:00:00Z",
-      "status": "2026-09-20 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 28,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
@@ -345,7 +345,7 @@
     {
       "matchId": 555022,
       "date": "2026-10-07T00:00:00Z",
-      "status": "2026-10-07 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 29,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
@@ -357,7 +357,7 @@
     {
       "matchId": 555032,
       "date": "2026-10-10T00:00:00Z",
-      "status": "2026-10-11 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 30,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
@@ -369,7 +369,7 @@
     {
       "matchId": 555048,
       "date": "2026-10-17T00:00:00Z",
-      "status": "2026-10-18 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 31,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
