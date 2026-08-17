@@ -273,14 +273,14 @@
     {
       "matchId": 554963,
       "date": "2026-08-16T22:30:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "matchday": 23,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 1,
-      "golsContra": 1
+      "golsContra": 2
     },
     {
       "matchId": 554973,
