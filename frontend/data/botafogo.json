@@ -273,12 +273,12 @@
     {
       "matchId": 554969,
       "date": "2026-08-16T21:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 23,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 0,
       "golsContra": 1
     },
