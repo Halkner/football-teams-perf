@@ -285,13 +285,13 @@
     {
       "matchId": 554974,
       "date": "2026-08-22T23:30:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 24,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
       "local": "CASA",
       "resultado": null,
-      "golsPro": 0,
+      "golsPro": 1,
       "golsContra": 1
     },
     {
