@@ -285,13 +285,13 @@
     {
       "matchId": 554975,
       "date": "2026-08-22T19:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "matchday": 24,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
       "local": "CASA",
-      "resultado": null,
-      "golsPro": 0,
+      "resultado": "V",
+      "golsPro": 2,
       "golsContra": 1
     },
     {
