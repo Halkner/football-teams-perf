@@ -285,12 +285,12 @@
     {
       "matchId": 554977,
       "date": "2026-08-23T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 24,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "V",
       "golsPro": 4,
       "golsContra": 1
     },
