@@ -285,12 +285,12 @@
     {
       "matchId": 554972,
       "date": "2026-08-23T21:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 24,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "V",
       "golsPro": 1,
       "golsContra": 0
     },
