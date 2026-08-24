@@ -285,14 +285,14 @@
     {
       "matchId": 554973,
       "date": "2026-08-23T22:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 24,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": 0,
-      "golsContra": 1
+      "resultado": "D",
+      "golsPro": 1,
+      "golsContra": 2
     },
     {
       "matchId": 554983,
