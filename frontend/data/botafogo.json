@@ -285,12 +285,12 @@
     {
       "matchId": 554970,
       "date": "2026-08-24T23:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 24,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 2,
       "golsContra": 3
     },
