@@ -285,14 +285,14 @@
     {
       "matchId": 554970,
       "date": "2026-08-24T23:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 24,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
       "local": "FORA",
       "resultado": null,
-      "golsPro": 2,
-      "golsContra": 0
+      "golsPro": 3,
+      "golsContra": 2
     },
     {
       "matchId": 554980,
