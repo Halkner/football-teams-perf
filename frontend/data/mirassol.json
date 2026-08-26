@@ -285,7 +285,7 @@
     {
       "matchId": 554986,
       "date": "2026-08-30T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-30 22:30:00Z",
       "matchday": 25,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -309,7 +309,7 @@
     {
       "matchId": 554993,
       "date": "2026-09-06T14:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-05 21:30:00Z",
       "matchday": 26,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
