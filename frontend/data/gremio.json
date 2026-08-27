@@ -297,7 +297,7 @@
     {
       "matchId": 554985,
       "date": "2026-08-30T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-30 21:30:00Z",
       "matchday": 25,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
@@ -309,7 +309,7 @@
     {
       "matchId": 554999,
       "date": "2026-09-07T23:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-07 23:00:00Z",
       "matchday": 26,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -321,7 +321,7 @@
     {
       "matchId": 555006,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-13 20:00:00Z",
       "matchday": 27,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
@@ -333,7 +333,7 @@
     {
       "matchId": 555014,
       "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-20 20:00:00Z",
       "matchday": 28,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -345,7 +345,7 @@
     {
       "matchId": 555027,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 20:00:00Z",
       "matchday": 29,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -357,7 +357,7 @@
     {
       "matchId": 555036,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 20:00:00Z",
       "matchday": 30,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
@@ -369,7 +369,7 @@
     {
       "matchId": 555046,
       "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-18 20:00:00Z",
       "matchday": 31,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,

@@ -297,7 +297,7 @@
     {
       "matchId": 554985,
       "date": "2026-08-30T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-08-30 21:30:00Z",
       "matchday": 25,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
@@ -309,7 +309,7 @@
     {
       "matchId": 554992,
       "date": "2026-09-06T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-09-06 22:30:00Z",
       "matchday": 26,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -321,7 +321,7 @@
     {
       "matchId": 555003,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-13 20:00:00Z",
       "matchday": 27,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
@@ -333,7 +333,7 @@
     {
       "matchId": 555011,
       "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-20 20:00:00Z",
       "matchday": 28,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
@@ -345,7 +345,7 @@
     {
       "matchId": 555029,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 20:00:00Z",
       "matchday": 29,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -357,7 +357,7 @@
     {
       "matchId": 555033,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 20:00:00Z",
       "matchday": 30,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
@@ -369,7 +369,7 @@
     {
       "matchId": 555043,
       "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-18 20:00:00Z",
       "matchday": 31,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
