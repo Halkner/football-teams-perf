@@ -297,7 +297,7 @@
     {
       "matchId": 554980,
       "date": "2026-08-30T14:00:00Z",
-      "status": "2026-08-30 14:00:00Z",
+      "status": "TIMED",
       "matchday": 25,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
@@ -309,7 +309,7 @@
     {
       "matchId": 554995,
       "date": "2026-09-06T00:00:00Z",
-      "status": "2026-09-06 00:00:00Z",
+      "status": "TIMED",
       "matchday": 26,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
@@ -321,7 +321,7 @@
     {
       "matchId": 555000,
       "date": "2026-09-12T00:00:00Z",
-      "status": "2026-09-13 20:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 27,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
@@ -333,7 +333,7 @@
     {
       "matchId": 555012,
       "date": "2026-09-19T00:00:00Z",
-      "status": "2026-09-20 20:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 28,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -345,7 +345,7 @@
     {
       "matchId": 555024,
       "date": "2026-10-07T00:00:00Z",
-      "status": "2026-10-07 20:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 29,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
@@ -357,7 +357,7 @@
     {
       "matchId": 555035,
       "date": "2026-10-10T00:00:00Z",
-      "status": "2026-10-11 20:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 30,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
@@ -369,7 +369,7 @@
     {
       "matchId": 555045,
       "date": "2026-10-17T00:00:00Z",
-      "status": "2026-10-18 20:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 31,
       "adversario": "Santos FC",
       "adversarioId": 6685,
