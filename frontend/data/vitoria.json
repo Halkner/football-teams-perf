@@ -297,14 +297,14 @@
     {
       "matchId": 554981,
       "date": "2026-08-29T21:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 25,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 0
     },
     {
       "matchId": 554999,
