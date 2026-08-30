@@ -297,12 +297,12 @@
     {
       "matchId": 554980,
       "date": "2026-08-30T14:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 25,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "E",
       "golsPro": 3,
       "golsContra": 3
     },
