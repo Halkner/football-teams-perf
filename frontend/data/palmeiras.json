@@ -297,14 +297,14 @@
     {
       "matchId": 554986,
       "date": "2026-08-30T21:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 25,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "E",
+      "golsPro": 1,
+      "golsContra": 1
     },
     {
       "matchId": 554990,
