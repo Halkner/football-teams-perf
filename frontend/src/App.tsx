@@ -399,8 +399,8 @@ function App() {
             </article>
             <article className="credits-card">
               <span className="credits-label">Instagram</span>
-              <a href="https://instagram.com/math.adr" target="_blank" rel="noreferrer">
-                @math.adr
+              <a href="https://www.instagram.com/matheusadriano7" target="_blank" rel="noreferrer">
+                @matheusadriano7
               </a>
             </article>
           </div>
