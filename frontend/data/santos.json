@@ -297,13 +297,13 @@
     {
       "matchId": 554983,
       "date": "2026-08-30T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 25,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": 0,
+      "resultado": "V",
+      "golsPro": 1,
       "golsContra": 0
     },
     {
