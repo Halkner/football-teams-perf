@@ -297,12 +297,12 @@
     {
       "matchId": 554982,
       "date": "2026-08-30T22:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 25,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "V",
       "golsPro": 3,
       "golsContra": 2
     },

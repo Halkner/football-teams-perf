@@ -297,14 +297,14 @@
     {
       "matchId": 554985,
       "date": "2026-08-30T21:30:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 25,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
       "local": "FORA",
-      "resultado": "D",
-      "golsPro": 1,
-      "golsContra": 3
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 554992,
