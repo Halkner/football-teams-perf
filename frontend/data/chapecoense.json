@@ -320,8 +320,8 @@
     },
     {
       "matchId": 555003,
-      "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-09-12T20:00:00Z",
+      "status": "TIMED",
       "matchday": 27,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
@@ -332,8 +332,8 @@
     },
     {
       "matchId": 555011,
-      "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-09-19T19:00:00Z",
+      "status": "TIMED",
       "matchday": 28,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,

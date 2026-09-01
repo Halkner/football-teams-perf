@@ -320,8 +320,8 @@
     },
     {
       "matchId": 555008,
-      "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-09-12T21:30:00Z",
+      "status": "TIMED",
       "matchday": 27,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -332,8 +332,8 @@
     },
     {
       "matchId": 555017,
-      "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-09-20T00:00:00Z",
+      "status": "TIMED",
       "matchday": 28,
       "adversario": "SC Internacional",
       "adversarioId": 6684,

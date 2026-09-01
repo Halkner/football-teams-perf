@@ -320,8 +320,8 @@
     },
     {
       "matchId": 555008,
-      "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-09-12T21:30:00Z",
+      "status": "TIMED",
       "matchday": 27,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,

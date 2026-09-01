@@ -320,8 +320,8 @@
     },
     {
       "matchId": 555009,
-      "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-09-13T00:00:00Z",
+      "status": "TIMED",
       "matchday": 27,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
@@ -332,8 +332,8 @@
     },
     {
       "matchId": 555016,
-      "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-09-19T21:30:00Z",
+      "status": "TIMED",
       "matchday": 28,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
