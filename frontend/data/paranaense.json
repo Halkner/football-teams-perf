@@ -321,7 +321,7 @@
     {
       "matchId": 555004,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 27,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
