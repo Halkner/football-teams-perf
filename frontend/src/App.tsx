@@ -14,10 +14,12 @@ import flamengoMatches from '../data/flamengo.json'
 import palmeirasMatches from '../data/palmeiras.json'
 import cruzeiroMatches from '../data/cruzeiro.json'
 import fluminenseMatches from '../data/fluminense.json'
+import paranaenseMatches from '../data/paranaense.json'
 import flamengoProjection from '../data/projections/flamengo.json'
 import palmeirasProjection from '../data/projections/palmeiras.json'
 import cruzeiroProjection from '../data/projections/cruzeiro.json'
 import fluminenseProjection from '../data/projections/fluminense.json'
+import paranaenseProjection from '../data/projections/paranaense.json'
 import lastUpdate from '../data/last.json'
 
 type MatchResult = 'V' | 'E' | 'D' | null
@@ -121,6 +123,12 @@ const TEAM_OPTIONS: TeamOption[] = [
     label: 'Fluminense',
     matches: fluminenseMatches as TeamData,
     projection: fluminenseProjection as ProjectionData,
+  },
+  {
+    key: 'paranaense',
+    label: 'Athletico Paranaense',
+    matches: paranaenseMatches as TeamData,
+    projection: paranaenseProjection as ProjectionData,
   },
 ]
 
