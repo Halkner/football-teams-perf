@@ -249,7 +249,7 @@
     {
       "matchId": 554941,
       "date": "2026-07-29T00:00:00Z",
-      "status": "2026-07-29 20:00:00Z",
+      "status": "POSTPONED",
       "matchday": 21,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -321,7 +321,7 @@
     {
       "matchId": 555006,
       "date": "2026-09-12T19:00:00Z",
-      "status": "2026-09-13 19:00:00Z",
+      "status": "TIMED",
       "matchday": 27,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
@@ -333,7 +333,7 @@
     {
       "matchId": 555014,
       "date": "2026-09-19T00:00:00Z",
-      "status": "2026-09-20 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 28,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -345,7 +345,7 @@
     {
       "matchId": 555027,
       "date": "2026-10-07T00:00:00Z",
-      "status": "2026-10-07 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 29,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -357,7 +357,7 @@
     {
       "matchId": 555036,
       "date": "2026-10-10T00:00:00Z",
-      "status": "2026-10-11 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 30,
       "adversario": "SC Internacional",
       "adversarioId": 6684,

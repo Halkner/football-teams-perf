@@ -321,7 +321,7 @@
     {
       "matchId": 555000,
       "date": "2026-09-12T19:00:00Z",
-      "status": "2026-09-13 19:00:00Z",
+      "status": "TIMED",
       "matchday": 27,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
@@ -333,7 +333,7 @@
     {
       "matchId": 555012,
       "date": "2026-09-19T00:00:00Z",
-      "status": "2026-09-20 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 28,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -345,7 +345,7 @@
     {
       "matchId": 555024,
       "date": "2026-10-07T00:00:00Z",
-      "status": "2026-10-07 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 29,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
@@ -357,7 +357,7 @@
     {
       "matchId": 555035,
       "date": "2026-10-10T00:00:00Z",
-      "status": "2026-10-11 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 30,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,

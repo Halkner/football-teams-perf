@@ -321,7 +321,7 @@
     {
       "matchId": 555005,
       "date": "2026-09-12T00:00:00Z",
-      "status": "2026-09-13 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 27,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
@@ -333,7 +333,7 @@
     {
       "matchId": 555012,
       "date": "2026-09-19T00:00:00Z",
-      "status": "2026-09-20 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 28,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -345,7 +345,7 @@
     {
       "matchId": 555025,
       "date": "2026-10-07T00:00:00Z",
-      "status": "2026-10-07 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 29,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
@@ -357,7 +357,7 @@
     {
       "matchId": 555037,
       "date": "2026-10-10T00:00:00Z",
-      "status": "2026-10-11 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 30,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
