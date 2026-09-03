@@ -321,7 +321,7 @@
     {
       "matchId": 555004,
       "date": "2026-09-12T00:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-13 19:00:00Z",
       "matchday": 27,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
@@ -333,7 +333,7 @@
     {
       "matchId": 555010,
       "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-20 19:00:00Z",
       "matchday": 28,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
@@ -345,7 +345,7 @@
     {
       "matchId": 555020,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 19:00:00Z",
       "matchday": 29,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
@@ -357,7 +357,7 @@
     {
       "matchId": 555033,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 19:00:00Z",
       "matchday": 30,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,

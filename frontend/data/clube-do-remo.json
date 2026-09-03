@@ -321,7 +321,7 @@
     {
       "matchId": 555001,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-13 19:00:00Z",
       "matchday": 27,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
@@ -333,7 +333,7 @@
     {
       "matchId": 555016,
       "date": "2026-09-19T21:30:00Z",
-      "status": "TIMED",
+      "status": "2026-09-20 19:00:00Z",
       "matchday": 28,
       "adversario": "Santos FC",
       "adversarioId": 6685,
@@ -345,7 +345,7 @@
     {
       "matchId": 555027,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 19:00:00Z",
       "matchday": 29,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
@@ -357,7 +357,7 @@
     {
       "matchId": 555039,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 19:00:00Z",
       "matchday": 30,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
