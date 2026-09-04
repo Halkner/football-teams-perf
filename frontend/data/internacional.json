@@ -321,7 +321,7 @@
     {
       "matchId": 555003,
       "date": "2026-09-12T20:00:00Z",
-      "status": "2026-09-13 19:00:00Z",
+      "status": "TIMED",
       "matchday": 27,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
@@ -333,7 +333,7 @@
     {
       "matchId": 555017,
       "date": "2026-09-20T00:00:00Z",
-      "status": "2026-09-20 19:00:00Z",
+      "status": "TIMED",
       "matchday": 28,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
@@ -345,7 +345,7 @@
     {
       "matchId": 555025,
       "date": "2026-10-07T00:00:00Z",
-      "status": "2026-10-07 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 29,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -357,7 +357,7 @@
     {
       "matchId": 555036,
       "date": "2026-10-10T00:00:00Z",
-      "status": "2026-10-11 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 30,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
