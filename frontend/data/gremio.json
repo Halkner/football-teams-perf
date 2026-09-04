@@ -247,18 +247,6 @@
       "golsContra": 1
     },
     {
-      "matchId": 554941,
-      "date": "2026-07-29T00:00:00Z",
-      "status": "POSTPONED",
-      "matchday": 21,
-      "adversario": "Botafogo FR",
-      "adversarioId": 1770,
-      "local": "FORA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
-    },
-    {
       "matchId": 554956,
       "date": "2026-08-08T19:00:00Z",
       "status": "FINISHED",
@@ -326,6 +314,18 @@
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
       "local": "CASA",
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
+    },
+    {
+      "matchId": 554941,
+      "date": "2026-09-16T22:30:00Z",
+      "status": "TIMED",
+      "matchday": 21,
+      "adversario": "Botafogo FR",
+      "adversarioId": 1770,
+      "local": "FORA",
       "resultado": null,
       "golsPro": null,
       "golsContra": null
