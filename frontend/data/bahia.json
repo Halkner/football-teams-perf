@@ -309,12 +309,12 @@
     {
       "matchId": 554991,
       "date": "2026-09-05T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 26,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "V",
       "golsPro": 3,
       "golsContra": 2
     },

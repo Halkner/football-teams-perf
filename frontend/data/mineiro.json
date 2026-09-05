@@ -309,14 +309,14 @@
     {
       "matchId": 554998,
       "date": "2026-09-05T21:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 26,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 0
     },
     {
       "matchId": 555000,
