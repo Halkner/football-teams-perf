@@ -309,13 +309,13 @@
     {
       "matchId": 554995,
       "date": "2026-09-06T00:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 26,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
       "local": "CASA",
       "resultado": null,
-      "golsPro": 0,
+      "golsPro": 1,
       "golsContra": 0
     },
     {
