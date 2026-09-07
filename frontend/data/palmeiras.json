@@ -309,12 +309,12 @@
     {
       "matchId": 554990,
       "date": "2026-09-06T21:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 26,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "E",
       "golsPro": 0,
       "golsContra": 0
     },
