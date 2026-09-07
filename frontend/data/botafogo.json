@@ -285,31 +285,31 @@
     {
       "matchId": 554984,
       "date": "2026-08-30T19:00:00Z",
-      "status": "2026-08-30 18:00:00Z",
+      "status": "FINISHED",
       "matchday": 25,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 0,
       "golsContra": 3
     },
     {
       "matchId": 554990,
       "date": "2026-09-06T21:30:00Z",
-      "status": "2026-09-06 20:30:00Z",
+      "status": "FINISHED",
       "matchday": 26,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "E",
       "golsPro": 0,
       "golsContra": 0
     },
     {
       "matchId": 555002,
       "date": "2026-09-12T23:30:00Z",
-      "status": "2026-09-12 22:30:00Z",
+      "status": "TIMED",
       "matchday": 27,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
@@ -321,7 +321,7 @@
     {
       "matchId": 554941,
       "date": "2026-09-16T22:30:00Z",
-      "status": "2026-09-16 21:30:00Z",
+      "status": "TIMED",
       "matchday": 21,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
@@ -333,7 +333,7 @@
     {
       "matchId": 555015,
       "date": "2026-09-19T20:00:00Z",
-      "status": "2026-09-19 19:00:00Z",
+      "status": "TIMED",
       "matchday": 28,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
@@ -345,7 +345,7 @@
     {
       "matchId": 555021,
       "date": "2026-10-07T00:00:00Z",
-      "status": "2026-10-07 22:30:00Z",
+      "status": "SCHEDULED",
       "matchday": 29,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
@@ -357,7 +357,7 @@
     {
       "matchId": 555034,
       "date": "2026-10-10T00:00:00Z",
-      "status": "2026-10-11 21:30:00Z",
+      "status": "SCHEDULED",
       "matchday": 30,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
@@ -369,7 +369,7 @@
     {
       "matchId": 555043,
       "date": "2026-10-17T00:00:00Z",
-      "status": "2026-10-18 19:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 31,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
