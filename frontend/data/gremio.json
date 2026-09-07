@@ -285,19 +285,19 @@
     {
       "matchId": 554985,
       "date": "2026-08-30T21:30:00Z",
-      "status": "FINISHED",
+      "status": "2026-08-30 20:30:00Z",
       "matchday": 25,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
       "local": "CASA",
-      "resultado": "V",
+      "resultado": null,
       "golsPro": 3,
       "golsContra": 1
     },
     {
       "matchId": 554999,
       "date": "2026-09-07T23:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-07 22:00:00Z",
       "matchday": 26,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -309,7 +309,7 @@
     {
       "matchId": 555006,
       "date": "2026-09-12T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-12 18:00:00Z",
       "matchday": 27,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
@@ -321,7 +321,7 @@
     {
       "matchId": 554941,
       "date": "2026-09-16T22:30:00Z",
-      "status": "TIMED",
+      "status": "2026-09-16 21:30:00Z",
       "matchday": 21,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -333,7 +333,7 @@
     {
       "matchId": 555014,
       "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-20 13:00:00Z",
       "matchday": 28,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -345,7 +345,7 @@
     {
       "matchId": 555027,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 21:30:00Z",
       "matchday": 29,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -357,7 +357,7 @@
     {
       "matchId": 555036,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 19:30:00Z",
       "matchday": 30,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
@@ -369,7 +369,7 @@
     {
       "matchId": 555046,
       "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-18 19:00:00Z",
       "matchday": 31,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,

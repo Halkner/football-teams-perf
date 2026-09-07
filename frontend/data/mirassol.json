@@ -297,31 +297,31 @@
     {
       "matchId": 554775,
       "date": "2026-09-02T22:30:00Z",
-      "status": "FINISHED",
+      "status": "2026-09-02 21:30:00Z",
       "matchday": 4,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
       "local": "FORA",
-      "resultado": "D",
+      "resultado": null,
       "golsPro": 0,
       "golsContra": 2
     },
     {
       "matchId": 554993,
       "date": "2026-09-06T14:00:00Z",
-      "status": "FINISHED",
+      "status": "2026-09-06 13:00:00Z",
       "matchday": 26,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
       "local": "FORA",
-      "resultado": "V",
+      "resultado": null,
       "golsPro": 2,
       "golsContra": 1
     },
     {
       "matchId": 555007,
       "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-13 18:00:00Z",
       "matchday": 27,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -333,7 +333,7 @@
     {
       "matchId": 555015,
       "date": "2026-09-19T20:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-19 19:00:00Z",
       "matchday": 28,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -345,7 +345,7 @@
     {
       "matchId": 555022,
       "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-07 21:30:00Z",
       "matchday": 29,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
@@ -357,7 +357,7 @@
     {
       "matchId": 555031,
       "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-11 21:30:00Z",
       "matchday": 30,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
@@ -369,7 +369,7 @@
     {
       "matchId": 555047,
       "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-10-18 19:00:00Z",
       "matchday": 31,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
