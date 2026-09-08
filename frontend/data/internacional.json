@@ -344,8 +344,8 @@
     },
     {
       "matchId": 555025,
-      "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-07T22:30:00Z",
+      "status": "TIMED",
       "matchday": 29,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -356,8 +356,8 @@
     },
     {
       "matchId": 555036,
-      "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-11T20:30:00Z",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,

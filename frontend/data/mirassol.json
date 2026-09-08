@@ -320,8 +320,8 @@
     },
     {
       "matchId": 555007,
-      "date": "2026-09-12T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-09-13T19:00:00Z",
+      "status": "TIMED",
       "matchday": 27,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -344,8 +344,8 @@
     },
     {
       "matchId": 555022,
-      "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-07T22:30:00Z",
+      "status": "TIMED",
       "matchday": 29,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
@@ -356,8 +356,8 @@
     },
     {
       "matchId": 555031,
-      "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-11T22:30:00Z",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "EC Bahia",
       "adversarioId": 1777,

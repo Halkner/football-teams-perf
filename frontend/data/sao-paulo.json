@@ -344,8 +344,8 @@
     },
     {
       "matchId": 555023,
-      "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-08T00:30:00Z",
+      "status": "TIMED",
       "matchday": 29,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
@@ -356,8 +356,8 @@
     },
     {
       "matchId": 555038,
-      "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-11T00:00:00Z",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "EC Vitória",
       "adversarioId": 1782,

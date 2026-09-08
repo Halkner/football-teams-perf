@@ -344,8 +344,8 @@
     },
     {
       "matchId": 555021,
-      "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-07T23:30:00Z",
+      "status": "TIMED",
       "matchday": 29,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
@@ -356,8 +356,8 @@
     },
     {
       "matchId": 555039,
-      "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-10T20:00:00Z",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,

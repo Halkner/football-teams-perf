@@ -332,8 +332,8 @@
     },
     {
       "matchId": 555014,
-      "date": "2026-09-19T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-09-20T14:00:00Z",
+      "status": "TIMED",
       "matchday": 28,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -344,8 +344,8 @@
     },
     {
       "matchId": 555027,
-      "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-07T22:30:00Z",
+      "status": "TIMED",
       "matchday": 29,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -356,8 +356,8 @@
     },
     {
       "matchId": 555036,
-      "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-11T20:30:00Z",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "SC Internacional",
       "adversarioId": 6684,

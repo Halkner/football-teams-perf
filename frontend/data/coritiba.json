@@ -344,8 +344,8 @@
     },
     {
       "matchId": 555024,
-      "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-09T00:30:00Z",
+      "status": "TIMED",
       "matchday": 29,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -356,8 +356,8 @@
     },
     {
       "matchId": 555034,
-      "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-11T22:30:00Z",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,

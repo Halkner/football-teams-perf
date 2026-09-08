@@ -344,8 +344,8 @@
     },
     {
       "matchId": 555028,
-      "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-08T22:30:00Z",
+      "status": "TIMED",
       "matchday": 29,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
@@ -356,8 +356,8 @@
     },
     {
       "matchId": 555030,
-      "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-11T19:00:00Z",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,

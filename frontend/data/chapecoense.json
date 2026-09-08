@@ -344,8 +344,8 @@
     },
     {
       "matchId": 555029,
-      "date": "2026-10-07T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-07T23:00:00Z",
+      "status": "TIMED",
       "matchday": 29,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -356,8 +356,8 @@
     },
     {
       "matchId": 555033,
-      "date": "2026-10-10T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-12T22:30:00Z",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
