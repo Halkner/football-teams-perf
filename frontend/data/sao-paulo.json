@@ -321,14 +321,14 @@
     {
       "matchId": 555008,
       "date": "2026-09-12T21:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 27,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 0
     },
     {
       "matchId": 555017,
