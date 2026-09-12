@@ -321,13 +321,13 @@
     {
       "matchId": 555006,
       "date": "2026-09-12T19:00:00Z",
-      "status": "PAUSED",
+      "status": "IN_PLAY",
       "matchday": 27,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
       "local": "FORA",
       "resultado": null,
-      "golsPro": 0,
+      "golsPro": 2,
       "golsContra": 1
     },
     {
