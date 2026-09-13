@@ -321,12 +321,12 @@
     {
       "matchId": 555009,
       "date": "2026-09-13T00:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 27,
       "adversario": "Santos FC",
       "adversarioId": 6685,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 1,
       "golsContra": 2
     },
