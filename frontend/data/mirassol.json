@@ -321,14 +321,14 @@
     {
       "matchId": 555007,
       "date": "2026-09-13T19:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "matchday": 27,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
       "local": "CASA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 2
     },
     {
       "matchId": 555015,
