@@ -321,7 +321,7 @@
     {
       "matchId": 555001,
       "date": "2026-09-14T23:00:00Z",
-      "status": "2026-09-14 23:00:00Z",
+      "status": "TIMED",
       "matchday": 27,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -333,7 +333,7 @@
     {
       "matchId": 555010,
       "date": "2026-09-20T22:30:00Z",
-      "status": "2026-09-20 22:30:00Z",
+      "status": "TIMED",
       "matchday": 28,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
@@ -345,7 +345,7 @@
     {
       "matchId": 555026,
       "date": "2026-10-09T00:30:00Z",
-      "status": "2026-10-09 00:30:00Z",
+      "status": "TIMED",
       "matchday": 29,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
@@ -357,7 +357,7 @@
     {
       "matchId": 555031,
       "date": "2026-10-11T22:30:00Z",
-      "status": "2026-10-11 22:30:00Z",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
@@ -369,7 +369,7 @@
     {
       "matchId": 555042,
       "date": "2026-10-17T00:00:00Z",
-      "status": "2026-10-18 20:00:00Z",
+      "status": "SCHEDULED",
       "matchday": 31,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
