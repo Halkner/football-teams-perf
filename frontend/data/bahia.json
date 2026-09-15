@@ -321,14 +321,14 @@
     {
       "matchId": 555001,
       "date": "2026-09-14T23:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "matchday": 27,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "V",
       "golsPro": 2,
-      "golsContra": 0
+      "golsContra": 1
     },
     {
       "matchId": 555010,
