@@ -247,18 +247,6 @@
       "golsContra": 2
     },
     {
-      "matchId": 554948,
-      "date": "2026-07-29T00:00:00Z",
-      "status": "POSTPONED",
-      "matchday": 21,
-      "adversario": "São Paulo FC",
-      "adversarioId": 1776,
-      "local": "FORA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
-    },
-    {
       "matchId": 554959,
       "date": "2026-08-09T21:30:00Z",
       "status": "FINISHED",
@@ -337,6 +325,18 @@
       "matchday": 28,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
+      "local": "FORA",
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
+    },
+    {
+      "matchId": 554948,
+      "date": "2026-10-02T23:00:00Z",
+      "status": "TIMED",
+      "matchday": 21,
+      "adversario": "São Paulo FC",
+      "adversarioId": 1776,
       "local": "FORA",
       "resultado": null,
       "golsPro": null,

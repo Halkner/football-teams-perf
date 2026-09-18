@@ -247,18 +247,6 @@
       "golsContra": 0
     },
     {
-      "matchId": 554940,
-      "date": "2026-07-29T00:00:00Z",
-      "status": "POSTPONED",
-      "matchday": 21,
-      "adversario": "CA Mineiro",
-      "adversarioId": 1766,
-      "local": "FORA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
-    },
-    {
       "matchId": 554952,
       "date": "2026-08-09T21:30:00Z",
       "status": "FINISHED",
@@ -337,6 +325,18 @@
       "matchday": 28,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
+      "local": "FORA",
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
+    },
+    {
+      "matchId": 554940,
+      "date": "2026-10-03T21:30:00Z",
+      "status": "TIMED",
+      "matchday": 21,
+      "adversario": "CA Mineiro",
+      "adversarioId": 1766,
       "local": "FORA",
       "resultado": null,
       "golsPro": null,

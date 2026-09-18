@@ -247,18 +247,6 @@
       "golsContra": 1
     },
     {
-      "matchId": 554948,
-      "date": "2026-07-29T00:00:00Z",
-      "status": "POSTPONED",
-      "matchday": 21,
-      "adversario": "Santos FC",
-      "adversarioId": 6685,
-      "local": "CASA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
-    },
-    {
       "matchId": 554956,
       "date": "2026-08-08T19:00:00Z",
       "status": "FINISHED",
@@ -337,6 +325,18 @@
       "matchday": 28,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
+      "local": "CASA",
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
+    },
+    {
+      "matchId": 554948,
+      "date": "2026-10-02T23:00:00Z",
+      "status": "TIMED",
+      "matchday": 21,
+      "adversario": "Santos FC",
+      "adversarioId": 6685,
       "local": "CASA",
       "resultado": null,
       "golsPro": null,
