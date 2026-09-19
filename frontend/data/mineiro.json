@@ -321,12 +321,12 @@
     {
       "matchId": 555011,
       "date": "2026-09-19T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 28,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "E",
       "golsPro": 1,
       "golsContra": 1
     },
