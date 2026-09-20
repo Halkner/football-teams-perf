@@ -333,14 +333,14 @@
     {
       "matchId": 555014,
       "date": "2026-09-20T14:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 28,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
       "local": "CASA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 0
     },
     {
       "matchId": 555027,
