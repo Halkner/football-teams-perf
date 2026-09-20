@@ -321,14 +321,14 @@
     {
       "matchId": 555017,
       "date": "2026-09-20T00:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 28,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
       "local": "CASA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 1,
+      "golsContra": 0
     },
     {
       "matchId": 554948,
