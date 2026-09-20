@@ -333,14 +333,14 @@
     {
       "matchId": 555010,
       "date": "2026-09-20T22:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 28,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
       "local": "CASA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 1,
+      "golsContra": 0
     },
     {
       "matchId": 555020,
