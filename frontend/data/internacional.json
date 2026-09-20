@@ -333,12 +333,12 @@
     {
       "matchId": 555017,
       "date": "2026-09-20T00:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 28,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 0,
       "golsContra": 1
     },
