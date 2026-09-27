@@ -368,8 +368,8 @@
     },
     {
       "matchId": 555040,
-      "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-17T22:30:00Z",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,

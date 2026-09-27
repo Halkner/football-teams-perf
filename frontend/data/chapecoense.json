@@ -368,8 +368,8 @@
     },
     {
       "matchId": 555043,
-      "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-17T21:00:00Z",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
