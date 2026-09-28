@@ -368,8 +368,8 @@
     },
     {
       "matchId": 555047,
-      "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-16T23:00:00Z",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
