@@ -392,8 +392,8 @@
     },
     {
       "matchId": 555066,
-      "date": "2026-10-28T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-30T00:30:00Z",
+      "status": "TIMED",
       "matchday": 33,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
@@ -404,8 +404,8 @@
     },
     {
       "matchId": 555070,
-      "date": "2026-11-04T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-11-04T22:30:00Z",
+      "status": "TIMED",
       "matchday": 34,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,

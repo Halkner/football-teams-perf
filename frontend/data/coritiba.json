@@ -392,8 +392,8 @@
     },
     {
       "matchId": 555064,
-      "date": "2026-10-28T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-29T22:30:00Z",
+      "status": "TIMED",
       "matchday": 33,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -404,8 +404,8 @@
     },
     {
       "matchId": 555076,
-      "date": "2026-11-04T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-11-04T00:30:00Z",
+      "status": "TIMED",
       "matchday": 34,
       "adversario": "SC Internacional",
       "adversarioId": 6684,

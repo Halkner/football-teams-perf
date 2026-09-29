@@ -392,8 +392,8 @@
     },
     {
       "matchId": 555063,
-      "date": "2026-10-28T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-30T23:00:00Z",
+      "status": "TIMED",
       "matchday": 33,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -404,8 +404,8 @@
     },
     {
       "matchId": 555073,
-      "date": "2026-11-04T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-11-03T22:30:00Z",
+      "status": "TIMED",
       "matchday": 34,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,

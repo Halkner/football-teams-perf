@@ -392,8 +392,8 @@
     },
     {
       "matchId": 555067,
-      "date": "2026-10-28T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-29T00:30:00Z",
+      "status": "TIMED",
       "matchday": 33,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -404,8 +404,8 @@
     },
     {
       "matchId": 555071,
-      "date": "2026-11-04T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-11-05T00:30:00Z",
+      "status": "TIMED",
       "matchday": 34,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
