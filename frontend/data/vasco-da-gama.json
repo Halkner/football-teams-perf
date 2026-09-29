@@ -380,8 +380,8 @@
     },
     {
       "matchId": 555058,
-      "date": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-24T21:30:00Z",
+      "status": "TIMED",
       "matchday": 32,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,

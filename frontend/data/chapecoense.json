@@ -380,8 +380,8 @@
     },
     {
       "matchId": 555050,
-      "date": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-24T22:30:00Z",
+      "status": "TIMED",
       "matchday": 32,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,

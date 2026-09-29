@@ -368,8 +368,8 @@
     },
     {
       "matchId": 555045,
-      "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-18T19:00:00Z",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
@@ -380,8 +380,8 @@
     },
     {
       "matchId": 555057,
-      "date": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-24T23:00:00Z",
+      "status": "TIMED",
       "matchday": 32,
       "adversario": "EC Bahia",
       "adversarioId": 1777,

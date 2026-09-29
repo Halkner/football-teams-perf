@@ -368,8 +368,8 @@
     },
     {
       "matchId": 555042,
-      "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-18T21:30:00Z",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
@@ -380,8 +380,8 @@
     },
     {
       "matchId": 555057,
-      "date": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-24T23:00:00Z",
+      "status": "TIMED",
       "matchday": 32,
       "adversario": "Santos FC",
       "adversarioId": 6685,

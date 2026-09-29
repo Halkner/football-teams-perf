@@ -380,8 +380,8 @@
     },
     {
       "matchId": 555053,
-      "date": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-26T23:00:00Z",
+      "status": "TIMED",
       "matchday": 32,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,

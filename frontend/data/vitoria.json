@@ -368,8 +368,8 @@
     },
     {
       "matchId": 555044,
-      "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-19T23:00:00Z",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
@@ -380,8 +380,8 @@
     },
     {
       "matchId": 555059,
-      "date": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-24T19:30:00Z",
+      "status": "TIMED",
       "matchday": 32,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,

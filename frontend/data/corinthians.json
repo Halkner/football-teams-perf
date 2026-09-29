@@ -368,8 +368,8 @@
     },
     {
       "matchId": 555044,
-      "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-19T23:00:00Z",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
@@ -380,8 +380,8 @@
     },
     {
       "matchId": 555058,
-      "date": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-24T21:30:00Z",
+      "status": "TIMED",
       "matchday": 32,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,

@@ -368,8 +368,8 @@
     },
     {
       "matchId": 555046,
-      "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-18T19:00:00Z",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,

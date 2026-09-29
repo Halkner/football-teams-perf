@@ -368,8 +368,8 @@
     },
     {
       "matchId": 555045,
-      "date": "2026-10-17T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-18T19:00:00Z",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "Santos FC",
       "adversarioId": 6685,
@@ -380,8 +380,8 @@
     },
     {
       "matchId": 555050,
-      "date": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-24T22:30:00Z",
+      "status": "TIMED",
       "matchday": 32,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
