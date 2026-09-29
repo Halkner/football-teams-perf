@@ -380,8 +380,8 @@
     },
     {
       "matchId": 555052,
-      "date": "2026-10-24T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-10-23T23:00:00Z",
+      "status": "TIMED",
       "matchday": 32,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
