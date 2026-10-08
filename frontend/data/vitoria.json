@@ -345,12 +345,12 @@
     {
       "matchId": 555029,
       "date": "2026-10-07T23:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 29,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "V",
       "golsPro": 4,
       "golsContra": 0
     },
