@@ -345,14 +345,14 @@
     {
       "matchId": 555022,
       "date": "2026-10-07T22:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 29,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "E",
       "golsPro": 1,
-      "golsContra": 0
+      "golsContra": 1
     },
     {
       "matchId": 555032,
