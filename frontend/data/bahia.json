@@ -345,12 +345,12 @@
     {
       "matchId": 555026,
       "date": "2026-10-09T00:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 29,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 0,
       "golsContra": 1
     },
