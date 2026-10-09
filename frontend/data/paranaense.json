@@ -345,14 +345,14 @@
     {
       "matchId": 555020,
       "date": "2026-10-08T23:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 29,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
       "local": "CASA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 1,
+      "golsContra": 1
     },
     {
       "matchId": 555033,
