@@ -357,14 +357,14 @@
     {
       "matchId": 555039,
       "date": "2026-10-10T21:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 30,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
       "local": "CASA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "E",
+      "golsPro": 0,
+      "golsContra": 0
     },
     {
       "matchId": 555049,
