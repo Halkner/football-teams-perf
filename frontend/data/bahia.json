@@ -362,9 +362,9 @@
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
       "local": "CASA",
-      "resultado": "V",
-      "golsPro": 1,
-      "golsContra": 0
+      "resultado": "E",
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 555042,
