@@ -362,9 +362,9 @@
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
       "local": "CASA",
-      "resultado": "E",
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "D",
+      "golsPro": 1,
+      "golsContra": 3
     },
     {
       "matchId": 555043,
