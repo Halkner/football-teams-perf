@@ -357,12 +357,12 @@
     {
       "matchId": 555032,
       "date": "2026-10-13T00:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 30,
       "adversario": "Cruzeiro EC",
       "adversarioId": 1771,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "V",
       "golsPro": 4,
       "golsContra": 2
     },

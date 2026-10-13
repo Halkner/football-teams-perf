@@ -362,9 +362,9 @@
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
       "local": "FORA",
-      "resultado": "E",
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "V",
+      "golsPro": 3,
+      "golsContra": 1
     },
     {
       "matchId": 555040,
