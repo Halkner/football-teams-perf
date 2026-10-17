@@ -369,12 +369,12 @@
     {
       "matchId": 555047,
       "date": "2026-10-16T23:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "matchday": 31,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "V",
       "golsPro": 2,
       "golsContra": 0
     },
