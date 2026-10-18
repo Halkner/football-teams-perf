@@ -369,12 +369,12 @@
     {
       "matchId": 555046,
       "date": "2026-10-18T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 31,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "V",
       "golsPro": 4,
       "golsContra": 2
     },
