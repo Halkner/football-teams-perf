@@ -357,14 +357,14 @@
     {
       "matchId": 555033,
       "date": "2026-10-12T22:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 30,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "V",
+      "golsPro": 4,
+      "golsContra": 1
     },
     {
       "matchId": 555040,
@@ -374,9 +374,9 @@
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
       "local": "CASA",
-      "resultado": "E",
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "D",
+      "golsPro": 0,
+      "golsContra": 2
     },
     {
       "matchId": 555059,

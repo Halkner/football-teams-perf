@@ -357,26 +357,26 @@
     {
       "matchId": 555034,
       "date": "2026-10-12T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 30,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "E",
+      "golsPro": 1,
+      "golsContra": 1
     },
     {
       "matchId": 555043,
       "date": "2026-10-17T21:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 31,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
       "local": "CASA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "V",
+      "golsPro": 1,
+      "golsContra": 0
     },
     {
       "matchId": 555054,
