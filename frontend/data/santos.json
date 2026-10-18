@@ -369,14 +369,14 @@
     {
       "matchId": 555045,
       "date": "2026-10-18T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 31,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 1
     },
     {
       "matchId": 555057,
