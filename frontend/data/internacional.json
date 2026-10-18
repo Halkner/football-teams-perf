@@ -357,26 +357,26 @@
     {
       "matchId": 555036,
       "date": "2026-10-11T20:30:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
       "local": "FORA",
-      "resultado": "E",
-      "golsPro": 1,
-      "golsContra": 1
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 555047,
       "date": "2026-10-16T23:00:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
       "local": "FORA",
-      "resultado": "D",
-      "golsPro": 0,
-      "golsContra": 2
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 555054,

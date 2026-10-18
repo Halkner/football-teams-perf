@@ -357,26 +357,26 @@
     {
       "matchId": 555030,
       "date": "2026-10-11T19:00:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "Santos FC",
       "adversarioId": 6685,
       "local": "CASA",
-      "resultado": "V",
-      "golsPro": 2,
-      "golsContra": 1
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 555041,
       "date": "2026-10-17T21:30:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
       "local": "CASA",
-      "resultado": "V",
-      "golsPro": 1,
-      "golsContra": 0
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 555053,

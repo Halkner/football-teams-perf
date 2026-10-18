@@ -357,26 +357,26 @@
     {
       "matchId": 555034,
       "date": "2026-10-12T19:00:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
       "local": "CASA",
-      "resultado": "E",
-      "golsPro": 1,
-      "golsContra": 1
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 555041,
       "date": "2026-10-17T21:30:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "CA Mineiro",
       "adversarioId": 1766,
       "local": "FORA",
-      "resultado": "D",
-      "golsPro": 0,
-      "golsContra": 1
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 555051,
