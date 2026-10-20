@@ -357,26 +357,26 @@
     {
       "matchId": 555031,
       "date": "2026-10-11T22:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 30,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "D",
+      "golsPro": 0,
+      "golsContra": 1
     },
     {
       "matchId": 555047,
       "date": "2026-10-16T23:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 31,
       "adversario": "SC Internacional",
       "adversarioId": 6684,
       "local": "CASA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "V",
+      "golsPro": 2,
+      "golsContra": 0
     },
     {
       "matchId": 555055,
