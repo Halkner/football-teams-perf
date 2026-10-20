@@ -357,26 +357,26 @@
     {
       "matchId": 555037,
       "date": "2026-10-11T20:30:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 30,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
       "local": "CASA",
-      "resultado": "V",
-      "golsPro": 4,
-      "golsContra": 1
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 555040,
       "date": "2026-10-17T22:30:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 31,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
       "local": "FORA",
-      "resultado": "V",
-      "golsPro": 2,
-      "golsContra": 0
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 555056,
