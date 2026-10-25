@@ -381,7 +381,7 @@
     {
       "matchId": 555057,
       "date": "2026-10-25T01:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 32,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
