@@ -381,12 +381,12 @@
     {
       "matchId": 555057,
       "date": "2026-10-25T01:00:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 32,
       "adversario": "Santos FC",
       "adversarioId": 6685,
       "local": "FORA",
-      "resultado": "E",
+      "resultado": null,
       "golsPro": null,
       "golsContra": null
     },
