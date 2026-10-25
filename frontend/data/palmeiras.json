@@ -381,14 +381,14 @@
     {
       "matchId": 555056,
       "date": "2026-10-24T21:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 32,
       "adversario": "RB Bragantino",
       "adversarioId": 4286,
       "local": "CASA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "V",
+      "golsPro": 2,
+      "golsContra": 0
     },
     {
       "matchId": 555068,
