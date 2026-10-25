@@ -386,9 +386,9 @@
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,
       "local": "FORA",
-      "resultado": "D",
-      "golsPro": 0,
-      "golsContra": 2
+      "resultado": "E",
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 555062,
