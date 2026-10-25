@@ -386,9 +386,9 @@
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
       "local": "CASA",
-      "resultado": "V",
-      "golsPro": 2,
-      "golsContra": 1
+      "resultado": "E",
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 555062,
