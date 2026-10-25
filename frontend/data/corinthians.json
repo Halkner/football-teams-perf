@@ -381,14 +381,14 @@
     {
       "matchId": 555058,
       "date": "2026-10-24T21:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 32,
       "adversario": "CR Vasco da Gama",
       "adversarioId": 1780,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "D",
+      "golsPro": 2,
+      "golsContra": 3
     },
     {
       "matchId": 555063,

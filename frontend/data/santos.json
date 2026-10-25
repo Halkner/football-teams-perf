@@ -387,8 +387,8 @@
       "adversarioId": 1777,
       "local": "CASA",
       "resultado": "E",
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 1,
+      "golsContra": 1
     },
     {
       "matchId": 555068,
