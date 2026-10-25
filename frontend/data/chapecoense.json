@@ -381,12 +381,12 @@
     {
       "matchId": 555050,
       "date": "2026-10-24T22:30:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 32,
       "adversario": "Fluminense FC",
       "adversarioId": 1765,
       "local": "CASA",
-      "resultado": "E",
+      "resultado": null,
       "golsPro": null,
       "golsContra": null
     },
