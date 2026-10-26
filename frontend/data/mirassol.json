@@ -381,12 +381,12 @@
     {
       "matchId": 555055,
       "date": "2026-10-24T19:30:00Z",
-      "status": "2026-10-24 18:30:00Z",
+      "status": "FINISHED",
       "matchday": 32,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "E",
       "golsPro": 1,
       "golsContra": 1
     },
