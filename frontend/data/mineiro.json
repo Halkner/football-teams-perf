@@ -381,14 +381,14 @@
     {
       "matchId": 555053,
       "date": "2026-10-26T23:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 32,
       "adversario": "CR Flamengo",
       "adversarioId": 1783,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 1,
+      "golsContra": 2
     },
     {
       "matchId": 555060,
