@@ -416,8 +416,8 @@
     },
     {
       "matchId": 555083,
-      "date": "2026-11-18T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-11-18T23:30:00Z",
+      "status": "TIMED",
       "matchday": 35,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
@@ -428,8 +428,8 @@
     },
     {
       "matchId": 555098,
-      "date": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-11-21T19:30:00Z",
+      "status": "TIMED",
       "matchday": 36,
       "adversario": "SE Palmeiras",
       "adversarioId": 1769,

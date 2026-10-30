@@ -416,8 +416,8 @@
     },
     {
       "matchId": 555085,
-      "date": "2026-11-18T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-11-14T21:30:00Z",
+      "status": "TIMED",
       "matchday": 35,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
@@ -428,8 +428,8 @@
     },
     {
       "matchId": 555091,
-      "date": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-11-25T23:00:00Z",
+      "status": "TIMED",
       "matchday": 36,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,

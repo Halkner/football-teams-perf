@@ -416,8 +416,8 @@
     },
     {
       "matchId": 555081,
-      "date": "2026-11-18T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-11-18T22:30:00Z",
+      "status": "TIMED",
       "matchday": 35,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
@@ -428,8 +428,8 @@
     },
     {
       "matchId": 555099,
-      "date": "2026-11-21T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-11-24T00:00:00Z",
+      "status": "TIMED",
       "matchday": 36,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
