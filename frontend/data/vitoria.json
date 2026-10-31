@@ -393,14 +393,14 @@
     {
       "matchId": 555064,
       "date": "2026-10-31T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 33,
       "adversario": "Coritiba FBC",
       "adversarioId": 4241,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "D",
+      "golsPro": 0,
+      "golsContra": 2
     },
     {
       "matchId": 555079,
