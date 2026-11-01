@@ -247,6 +247,18 @@
       "golsContra": 1
     },
     {
+      "matchId": 554942,
+      "date": "2026-07-29T00:00:00Z",
+      "status": "POSTPONED",
+      "matchday": 21,
+      "adversario": "Chapecoense AF",
+      "adversarioId": 1772,
+      "local": "FORA",
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
+    },
+    {
       "matchId": 554950,
       "date": "2026-08-09T19:00:00Z",
       "status": "FINISHED",
@@ -397,18 +409,6 @@
       "matchday": 34,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
-      "local": "FORA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
-    },
-    {
-      "matchId": 554942,
-      "date": "2026-11-14T23:30:00Z",
-      "status": "TIMED",
-      "matchday": 21,
-      "adversario": "Chapecoense AF",
-      "adversarioId": 1772,
       "local": "FORA",
       "resultado": null,
       "golsPro": null,
