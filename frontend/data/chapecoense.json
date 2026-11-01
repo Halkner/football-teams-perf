@@ -247,18 +247,6 @@
       "golsContra": 2
     },
     {
-      "matchId": 554942,
-      "date": "2026-07-29T00:00:00Z",
-      "status": "POSTPONED",
-      "matchday": 21,
-      "adversario": "CR Vasco da Gama",
-      "adversarioId": 1780,
-      "local": "CASA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
-    },
-    {
       "matchId": 554953,
       "date": "2026-08-08T23:30:00Z",
       "status": "FINISHED",
@@ -409,6 +397,18 @@
       "matchday": 34,
       "adversario": "Mirassol FC",
       "adversarioId": 4364,
+      "local": "CASA",
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
+    },
+    {
+      "matchId": 554942,
+      "date": "2026-11-14T23:30:00Z",
+      "status": "TIMED",
+      "matchday": 21,
+      "adversario": "CR Vasco da Gama",
+      "adversarioId": 1780,
       "local": "CASA",
       "resultado": null,
       "golsPro": null,
