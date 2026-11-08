@@ -440,8 +440,8 @@
     },
     {
       "matchId": 555101,
-      "date": "2026-11-28T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-11-29T00:00:00Z",
+      "status": "TIMED",
       "matchday": 37,
       "adversario": "EC Bahia",
       "adversarioId": 1777,
@@ -452,8 +452,8 @@
     },
     {
       "matchId": 555118,
-      "date": "2026-12-02T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-12-03T00:30:00Z",
+      "status": "TIMED",
       "matchday": 38,
       "adversario": "Santos FC",
       "adversarioId": 6685,

@@ -440,8 +440,8 @@
     },
     {
       "matchId": 555108,
-      "date": "2026-11-28T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-11-26T23:00:00Z",
+      "status": "TIMED",
       "matchday": 37,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
@@ -452,8 +452,8 @@
     },
     {
       "matchId": 555110,
-      "date": "2026-12-02T00:00:00Z",
-      "status": "SCHEDULED",
+      "date": "2026-12-03T00:30:00Z",
+      "status": "TIMED",
       "matchday": 38,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
