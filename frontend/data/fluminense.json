@@ -417,14 +417,14 @@
     {
       "matchId": 555087,
       "date": "2026-11-20T00:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 35,
       "adversario": "São Paulo FC",
       "adversarioId": 1776,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 0
     },
     {
       "matchId": 555096,
