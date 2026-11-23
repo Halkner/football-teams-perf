@@ -429,14 +429,14 @@
     {
       "matchId": 555090,
       "date": "2026-11-22T19:00:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 36,
       "adversario": "Clube do Remo",
       "adversarioId": 4287,
       "local": "CASA",
-      "resultado": "V",
-      "golsPro": 4,
-      "golsContra": 2
+      "resultado": null,
+      "golsPro": null,
+      "golsContra": null
     },
     {
       "matchId": 555107,
