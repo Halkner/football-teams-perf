@@ -429,14 +429,14 @@
     {
       "matchId": 555097,
       "date": "2026-11-23T22:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 36,
       "adversario": "EC Vitória",
       "adversarioId": 1782,
       "local": "CASA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 2
     },
     {
       "matchId": 555106,
