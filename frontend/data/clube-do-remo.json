@@ -429,14 +429,14 @@
     {
       "matchId": 555090,
       "date": "2026-11-22T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 36,
       "adversario": "CA Paranaense",
       "adversarioId": 1768,
       "local": "FORA",
-      "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "resultado": "D",
+      "golsPro": 2,
+      "golsContra": 4
     },
     {
       "matchId": 555108,
