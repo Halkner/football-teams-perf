@@ -429,12 +429,12 @@
     {
       "matchId": 555099,
       "date": "2026-11-24T00:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "matchday": 36,
       "adversario": "Grêmio FBPA",
       "adversarioId": 1767,
       "local": "CASA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 0,
       "golsContra": 2
     },
