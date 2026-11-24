@@ -429,14 +429,14 @@
     {
       "matchId": 555093,
       "date": "2026-11-23T23:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 36,
       "adversario": "Botafogo FR",
       "adversarioId": 1770,
       "local": "FORA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 1,
+      "golsContra": 0
     },
     {
       "matchId": 555108,
