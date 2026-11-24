@@ -429,13 +429,13 @@
     {
       "matchId": 555099,
       "date": "2026-11-24T00:00:00Z",
-      "status": "FINISHED",
+      "status": "PAUSED",
       "matchday": 36,
       "adversario": "Santos FC",
       "adversarioId": 6685,
       "local": "FORA",
-      "resultado": "V",
-      "golsPro": 2,
+      "resultado": null,
+      "golsPro": 1,
       "golsContra": 0
     },
     {
