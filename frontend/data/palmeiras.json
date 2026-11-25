@@ -441,12 +441,12 @@
     {
       "matchId": 555102,
       "date": "2026-11-24T21:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 37,
       "adversario": "Chapecoense AF",
       "adversarioId": 1772,
       "local": "FORA",
-      "resultado": null,
+      "resultado": "D",
       "golsPro": 0,
       "golsContra": 3
     },
