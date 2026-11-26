@@ -429,14 +429,14 @@
     {
       "matchId": 555091,
       "date": "2026-11-25T23:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 36,
       "adversario": "SC Corinthians Paulista",
       "adversarioId": 1779,
       "local": "CASA",
       "resultado": null,
-      "golsPro": null,
-      "golsContra": null
+      "golsPro": 0,
+      "golsContra": 1
     },
     {
       "matchId": 555100,
