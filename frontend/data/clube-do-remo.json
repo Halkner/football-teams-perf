@@ -447,8 +447,8 @@
       "adversarioId": 1776,
       "local": "FORA",
       "resultado": null,
-      "golsPro": 0,
-      "golsContra": 1
+      "golsPro": 1,
+      "golsContra": 2
     },
     {
       "matchId": 555117,
